@@ -222,7 +222,7 @@ To calculate the Hit Points of each location, add CON and SIZ together and cross
 
 ### Initiative
 
-The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armourarmor for example – modify it. The Combat chapter goes into more detail on how Initiative is used .
+The moment at which someone reacts in combat is governed by Initiative. Initiative acts as a modifier to Initiative rolls; the higher the Initiative, the faster one responds in a combat situation, determining when you can act. Further factors – armor for example – modify it. The Combat chapter goes into more detail on how Initiative is used .
 
 Initiative is the average of the DEX and INT Characteristics.
 
@@ -567,7 +567,7 @@ The Deepening and Waning table shows by how much the Passion changes.
 
 ## Step 9: Equipment
 
-Now that the character is almost finished, he or she needs some gear. This can include weapons, armourarmor, or other important paraphernalia used for a particular profession. In the course ofDuring adventure there are many chances to get more equipment, but each starting character has in his or her immediate possession the following:
+Now that the character is almost finished, he or she needs some gear. This can include weapons, armor, or other important paraphernalia used for a particular profession. In the course ofDuring adventure there are many chances to get more equipment, but each starting character has in his or her immediate possession the following:
 
 • A set of clothing appropriate to the character's profession and the setting.
 
@@ -719,7 +719,7 @@ Carrying a tune is covered by Sing, anything from monotonous chants through to c
 
 ### Stealth (DEX+INT)
 
-Hiding out of plain sight, orsight or moving with minimal sound are covered by the Stealth skill. Cover and conditions, such as darkness or loud background noise, improve the grade of the skill according to the specifics of the environment. Similarly, adverse conditions, such as a lack of cover or a quiet night will decrease the skill's grade. Circumstances also affect the difficulty of the attempt. For instance, a warrior wearing heavy armourarmor can easily conceal themselves behind a wall, provided they stand still or move very slowly, whereas moving quickly might cause their armourarmor to jingle.
+Hiding out of plain sight, orsight or moving with minimal sound are covered by the Stealth skill. Cover and conditions, such as darkness or loud background noise, improve the grade of the skill according to the specifics of the environment. Similarly, adverse conditions, such as a lack of cover or a quiet night will decrease the skill's grade. Circumstances also affect the difficulty of the attempt. For instance, a warrior wearing heavy armor can easily conceal themselves behind a wall, provided they stand still or move very slowly, whereas moving quickly might cause their armor to jingle.
 
 ### Swim (STR+CON)
 
@@ -1206,7 +1206,7 @@ The humanoid Hit Location table is repeated here for ease of reference.
 | 16-18 | Left. Arm |
 | 19-20 | Head |
 
-Note that some attacks, especially magical, technological or those produced by particular monsters (a dragon's fiery breath or an exploding grenade for example), may strike several Hit Locations simultaneously. Individual Hit Locations may be armourarmored, either from worn protection or the natural toughness of the creature's outer surface. This is important when considering Damage and Wound Levels below.
+Note that some attacks, especially magical, technological or those produced by particular monsters (a dragon's fiery breath or an exploding grenade for example), may strike several Hit Locations simultaneously. Individual Hit Locations may be armored, either from worn protection or the natural toughness of the creature's outer surface. This is important when considering Damage and Wound Levels below.
 
 ### Damage and Wound Levels
 
@@ -1217,7 +1217,7 @@ The rolled damage for the weapon or attack is modified by the certain conditions
 1. Apply the Damage Modifier for the character making the attackattack.
 2. Modify the damage from any weapon enhancing (or reducing) magicmagic.
 3. If parried, reduce the damage appropriately as per the comparative weapon sizessizes.
-4. If the Hit Location is armourarmored, reduce damage by the Armor Points valuevalue.
+4. If the Hit Location is armored, reduce damage by the Armor Points valuevalue.
 
 If the damage inflicted by the attack is above zero, then the Hit Location sustains that amount of damage, with the damage total being immediately removed from the location's Hit Points. Note how many Hit Points the location has remaining, and the wound category that results.
 
@@ -1301,7 +1301,7 @@ Using a weapon against an inanimate object with Armor Points equal to or greater
 | Automobile | 6/30 |
 | Bulletproof Glass | 8/25 |
 | Steel Beam | 12/50 |
-| ArmourArmored Personnel Carrier | 10/50 |
+| armored Personnel Carrier | 10/50 |
 | Battle Tank | 15/100 |
 | Truck/Excavator | 8/40 |
 | Tree Trunk | 6/50 |
@@ -1399,7 +1399,7 @@ If using firearms in a _Mythras__Imperative_ game, there are a few things to con
 - Firearms are surprisingly inaccurate unless time is taken to brace and/or aimaim.
 - When you are shot, bad stuff happenshappens.
 
-Defending oneself against gunfire largely becomes a matter of body armourarmor, using cover, and trying to prevent the opponent from being able to fire back. As a consequenceConsequently, most gun battles tend to become very tactical – lots of suppressing fire, flanking movementmovement, and flushing foes from deep cover – during which characters may pass entire combat rounds being pinned down and unable to respond until the opposition stops firing... which some players may find extremely tedious.
+Defending oneself against gunfire largely becomes a matter of body armor, using cover, and trying to prevent the opponent from being able to fire back. As a consequenceConsequently, most gun battles tend to become very tactical – lots of suppressing fire, flanking movementmovement, and flushing foes from deep cover – during which characters may pass entire combat rounds being pinned down and unable to respond until the opposition stops firing... which some players may find extremely tedious.
 
 It is perfectly possible that an entire gunfight will result in no injuries; just one side giving up due to running out of ammunition or fleeing the battle entirely. After all, few people want to risk being riddled with a burst from a weapon on full automatic.
 
@@ -1585,7 +1585,7 @@ These movement rates are situational and are not always an option. Many are deta
 
 #### Climb
 
-A character that moves adjacent to or starts the Turn next to a climbable surface or object may climb at a rate equal to the Base Movement Rate. The character cannot have moved faster than a Walk and must have movement remaining, with the distance climbed being reduced by any movement already used. Worn armourarmor hinders climbers by an amount equal to the Armor Points of the heaviest item worn.
+A character that moves adjacent to or starts the Turn next to a climbable surface or object may climb at a rate equal to the Base Movement Rate. The character cannot have moved faster than a Walk and must have movement remaining, with the distance climbed being reduced by any movement already used. Worn armor hinders climbers by an amount equal to the Armor Points of the heaviest item worn.
 
 #### Crawl
 
@@ -1633,9 +1633,9 @@ _For example, parrying a great axe (Huge) with a kite shield (also Huge) would b
 
 ### Armor
 
-Any damage which penetrates the defender's Parry is further reduced by the Armor Points of any natural protection (such as scales or a shell) or worn armourarmor they possess. If the defender has both, then the two stack together to reduce damage.
+Any damage which penetrates the defender's Parry is further reduced by the Armor Points of any natural protection (such as scales or a shell) or worn armor they possess. If the defender has both, then the two stack together to reduce damage.
 
-Due to its mass and restriction to movement, the highest Armor Point value of armourarmor worn by a character acts as a penalty to their Initiative roll.
+Due to its mass and restriction to movement, the highest Armor Point value of armor worn by a character acts as a penalty to their Initiative roll.
 
 ### Parrying a Missed Attack
 
@@ -1702,17 +1702,17 @@ When two or more Special Effects are gained, the combatant may freely mix and ma
 
 ### Special Effect Descriptions
 
-**Accidental Injury** : The defender deflects or twists an opponent's attack in such a way that the attacker fumbles, injuring themself. The attacker must roll damage against himself in a random Hit Location using the weapon used to strike. If unarmed, the attacker tears or breaks something internal, the damage roll ignoring any armourarmor.
+**Accidental Injury** : The defender deflects or twists an opponent's attack in such a way that the attacker fumbles, injuring themself. The attacker must roll damage against himself in a random Hit Location using the weapon used to strike. If unarmed, the attacker tears or breaks something internal, the damage roll ignoring any armor.
 
 **Arise** : Allows the defender to use a momentary opening to roll back up to their feet.
 
-**Bash** : The attacker deliberately bashes the opponent off balance. How far the defender totters back or sideward depends on the weapon being used. Shields knock an opponent back one metre for every 2 points of damage rolled (prior to any subtractions due to armourarmor, parries, and so forth), whereas bludgeoning weapons knock back one metre for every three points. Bashing works only on creatures up to twice the attacker's SIZ. If the recipient is forced backward into an obstacle, then they must make a Hard Athletics or Acrobatics skill roll to avoid falling or tripping over. For firearms, since Bash relies more on catching an opponent off balance, rather than throwing them backwards by pure force, it is perfectly reasonable for projectile ammunition to cause a target to stagger if it strikes an extremity. Energy weapons are less likely to inflict such an effect unless the physics of the beam result in some sort of surface explosion.
+**Bash** : The attacker deliberately bashes the opponent off balance. How far the defender totters back or sideward depends on the weapon being used. Shields knock an opponent back one metre for every 2 points of damage rolled (prior to any subtractions due to armor, parries, and so forth), whereas bludgeoning weapons knock back one metre for every three points. Bashing works only on creatures up to twice the attacker's SIZ. If the recipient is forced backward into an obstacle, then they must make a Hard Athletics or Acrobatics skill roll to avoid falling or tripping over. For firearms, since Bash relies more on catching an opponent off balance, rather than throwing them backwards by pure force, it is perfectly reasonable for projectile ammunition to cause a target to stagger if it strikes an extremity. Energy weapons are less likely to inflict such an effect unless the physics of the beam result in some sort of surface explosion.
 
 **Bleed** : The attack cuts open a major blood vessel. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance against the original attack roll. If the defender Fails, then they begin to bleed profusely. At the start of each Combat Round, the recipient loses one level of Fatigue, until they collapse and possibly die. Bleeding wounds can be staunched by passing a First Aid skill roll, but the recipient can no longer perform any strenuous or violent action without re-opening the wound. See Blood Loss, in the Game System section. For firearms, since most firearms produce very narrow wound paths, it is actually moremore difficult to nick or sever a major blood vessel than it is with a slicing or stabbing weapon. Due to this Bleed should be a Critical Success only – unless the gun is some sort of weird weaponry which fires shuriken, razor fléchettes, flattened force fields or some such exotic ammunition.
 
 **Blind Opponent** : On a Critical the defender briefly blinds his opponent by throwing sand, reflecting sunlight off his shield, or some other tactic that briefly interferes with the attacker's vision. The attacker must make an Opposed Roll of his Evade skill (or Weapon skill if using a shield) against the defender's original Parry roll. If the attacker Fails, they suffer a situational modifier of Hard or Formidable for the next 1d3 Turns, depending on the method of blinding.
 
-**Bypass armourarmor** : On a Critical the attacker finds a gap in the defender's natural or worn armourarmor. If the defender is wearing armourarmor above natural protection, then the attacker must decide which of the two is bypassed. This effect can be stacked to bypass both. For the purposes of this effect, physical protection gained from magic is considered as being worn armourarmor. Although Bypass Armor can ostensibly be used with any sort of attack, some types of ammunition might either be prevented from accessing this effect (shot gun pellets due to their spread) or built into their base performance, granting it as a bonus special effect in addition to any others won (Teleportation rounds). Much depends on how the Game Master wishes to model the weapon.
+**Bypass armor** : On a Critical the attacker finds a gap in the defender's natural or worn armor. If the defender is wearing armor above natural protection, then the attacker must decide which of the two is bypassed. This effect can be stacked to bypass both. For the purposes of this effect, physical protection gained from magic is considered as being worn armor. Although Bypass Armor can ostensibly be used with any sort of attack, some types of ammunition might either be prevented from accessing this effect (shot gun pellets due to their spread) or built into their base performance, granting it as a bonus special effect in addition to any others won (Teleportation rounds). Much depends on how the Game Master wishes to model the weapon.
 
 **Choose Location** : When using hand-to-hand melee weapons the attacker may freely select the location where the blow lands, as long as that location is normally within reach. If using Ranged Weapons Choose Location is a Critical Success only, unless the target is within Close Range and is either stationary or unaware of the attacker. For firearms, as per the default rules, Choose Location should be restricted to being a Critical Success only, unless the target is within close range and is either stationary or unaware of the impending attack. Telescopic scopes may extend this range.
 
@@ -1734,7 +1734,7 @@ When two or more Special Effects are gained, the combatant may freely mix and ma
 
 **Grip** : Provided the opponent is within the attacker's Unarmed Combat reach, they may use an empty hand (or similar limb capable of gripping) to hold onto the opponent, preventing them from being able to disengage from combat. The opponent may attempt to break free on his turn, requiring an Opposed Roll of either Brawn or Unarmed against whichever of the two skills the gripper prefers.
 
-**Impale** : Roll weapon damage twice, with the attacker choosing which of the two results to use for the attack. Assuming the weapon is a melee weapon, if armourarmor is penetrated and causes a wound, the attacker has the option of leaving the weapon in the wound or yanking it free on their next turn. Leaving the weapon in the wound inflicts a Difficulty Grade on the victim's future skill attempts. The severity of the penalty depends on the size of both the creature and the weapon impaling it, as listed on the Impale Effects Table below. For simplicity's sake, further impalements with the same sized weapon inflict no additional penalties. To withdraw an impaled weapon during melee requires use of the Ready Weapon Combat Action. The wielder must pass an unopposed Brawn roll (or win an Opposed Brawn roll if the opponent resists). Success pulls the weapon free, causing further injury to the same location equal to half the normal damage roll for that weapon, but without any Damage Modifier. Failure implies that the weapon remains stuck in the wound with no further effect, although the wielder may try again on their next turn. Specifically barbed weapons (such as harpoons) inflict normal damage. armourarmor does not reduce withdrawal damage. While it remains impaled, the attacker cannot use his impaling weapon for Parrying.
+**Impale** : Roll weapon damage twice, with the attacker choosing which of the two results to use for the attack. Assuming the weapon is a melee weapon, if armor is penetrated and causes a wound, the attacker has the option of leaving the weapon in the wound or yanking it free on their next turn. Leaving the weapon in the wound inflicts a Difficulty Grade on the victim's future skill attempts. The severity of the penalty depends on the size of both the creature and the weapon impaling it, as listed on the Impale Effects Table below. For simplicity's sake, further impalements with the same sized weapon inflict no additional penalties. To withdraw an impaled weapon during melee requires use of the Ready Weapon Combat Action. The wielder must pass an unopposed Brawn roll (or win an Opposed Brawn roll if the opponent resists). Success pulls the weapon free, causing further injury to the same location equal to half the normal damage roll for that weapon, but without any Damage Modifier. Failure implies that the weapon remains stuck in the wound with no further effect, although the wielder may try again on their next turn. Specifically barbed weapons (such as harpoons) inflict normal damage. armor does not reduce withdrawal damage. While it remains impaled, the attacker cannot use his impaling weapon for Parrying.
 
 **Impale Effects Table**
 
@@ -1753,7 +1753,7 @@ For firearms, the ammunition of most projectile-based firearms will be able to i
 
 **Maximise**** Damage**: On a Critical the character may substitute one of his weapon's damage dice for its full value. For example, a Hand Axe which normally does 1d6 damage would instead be treated as a 6, whereas a great club with 2d6 damage would instead inflict 1d6+6 damage. This Special Effect may be stacked. Although it can also be used for natural weapons, Maximise Damage does not affect the Damage Modifier of the attacker, which must be rolled normally.
 
-**Over-penetration:** Critical, Firearms Only. If shooting at lineally positioned opponents or into a densely packed group, this special effect allows the shot to travel completely through the first victim to strike a second behind them, assuming thatif it overcomes the first target's body armourarmor. The second victimvictim, however, only suffers half damage due to attenuation or slowing down of the shot. Over-penetration is generally of more use with high powered weapons that inflict large amounts of damage or those which have some sort of armourarmor piercing ability. Any special effects inflicted on the first target are not applied to the second.
+**Over-penetration:** Critical, Firearms Only. If shooting at lineally positioned opponents or into a densely packed group, this special effect allows the shot to travel completely through the first victim to strike a second behind them, assuming thatif it overcomes the first target's body armor. The second victimvictim, however, only suffers half damage due to attenuation or slowing down of the shot. Over-penetration is generally of more use with high powered weapons that inflict large amounts of damage or those which have some sort of armor piercing ability. Any special effects inflicted on the first target are not applied to the second.
 
 **Pin Down:** Firearms Only. Similar toLike Press Advantage, this special effect forces the target to make an Opposed Test of their Willpower against the attacker's hit roll. Failure means that the target hunkers down behind whatever cover is available and cannot return fire on their next Turn. Note that Pin Down works even if no actual damage is inflicted on the target (perhaps due to a successful evasion or shots striking their cover instead), as it relies on the intimidation effect of gunfire passing very close by.
 
@@ -1771,7 +1771,7 @@ Although a pinned victim is unable to fire back for the requisite time, they can
 
 **Stun**** Location**: The attacker can use a bludgeoning weapon to temporarily stun the body part struck. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance vs. the original attack roll. If the defender Fails, then the Hit Location is Incapacitated for a number of Turns equal to the damage inflicted. A blow to the torso causes the defender to stagger winded, only able to defend. A head shot renders the foe briefly insensible and unable to act.
 
-**Sunder** : The attacker may use a suitable weapon, such as an axe, to damage the armourarmor or natural protection of an opponent. Any weapon damage, after reductions for parrying or magic, is applied against the armourarmor Point value of the protection. Surplus damage over its Armor Points is then used to reduce the Armor Point value of that armourarmor(ed) location – ripping straps, bursting rings, creasing plates, or tearing away the hide, scales, or chitin of monsters. If any damage remains after the protection has been reduced to zero AP, it carries over onto the Hit Points of the location struck. For firearms, Sunder would be suitable for energy-based firearms designed to destroy ablative armourarmors or more exotic concepts like gravity wave guns.
+**Sunder** : The attacker may use a suitable weapon, such as an axe, to damage the armor or natural protection of an opponent. Any weapon damage, after reductions for parrying or magic, is applied against the armor Point value of the protection. Surplus damage over its Armor Points is then used to reduce the Armor Point value of that armor(ed) location – ripping straps, bursting rings, creasing plates, or tearing away the hide, scales, or chitin of monsters. If any damage remains after the protection has been reduced to zero AP, it carries over onto the Hit Points of the location struck. For firearms, Sunder would be suitable for energy-based firearms designed to destroy ablative armors or more exotic concepts like gravity wave guns.
 
 **Trip**** Opponent**: The character attempts to overbalance or throw his opponent to the ground. The opponent must make an Opposed Roll of his Brawn, Evade, or Acrobatics against the character's original roll. If the target Fails, they fall prone. Quadruped opponents (or creatures with even more legs) may substitute their Athletics skill for Evade and treat the roll as one Difficulty Grade easier. For firearms, assuming the firearm actually shootsshoots ammunition with mass, there is no reason that this effect couldn't be used when shooting at the legs of an opponent, even if no damage penetrates any worn protection.
 
@@ -1833,7 +1833,7 @@ If the winner of the Opposed Roll achieves one or more Levels of Success over hi
 
 ### Knockback
 
-An attack which imparts more damage than the SIZ of the recipient will, by default, result in the character being knocked back. The damage in this circumstance is before any reduction due to parrying or armourarmor. On receiving such a blow, the recipient must pass an Easy Acrobatics or Standard Athletics roll to avoid falling prone. They are also thrust one metre for every five points of damage (or fraction thereof) over their SIZ. Proactively using the Brace Combat Action can reduce or even negate the effects of knockback.
+An attack which imparts more damage than the SIZ of the recipient will, by default, result in the character being knocked back. The damage in this circumstance is before any reduction due to parrying or armor. On receiving such a blow, the recipient must pass an Easy Acrobatics or Standard Athletics roll to avoid falling prone. They are also thrust one metre for every five points of damage (or fraction thereof) over their SIZ. Proactively using the Brace Combat Action can reduce or even negate the effects of knockback.
 
 ### Leaping Attacks
 
@@ -1876,7 +1876,7 @@ A sweep attack is made by applying a single attack roll of the weapon or creatur
 
 ## Ranged Combat
 
-Ranged combat incorporates all forms of weaponry which require to be shot, thrown, or slung to strike their target. Ranged attacks are resolved in an identical way to close combat. However, Ranged Weapons can normally only be parried with shields; those without must rely on natural cover or use Evade to dive out of the line of fire. Thus, against lightly armourarmored foes, Ranged Weapons can be formidable deterrents.
+Ranged combat incorporates all forms of weaponry which require to be shot, thrown, or slung to strike their target. Ranged attacks are resolved in an identical way to close combat. However, Ranged Weapons can normally only be parried with shields; those without must rely on natural cover or use Evade to dive out of the line of fire. Thus, against lightly armored foes, Ranged Weapons can be formidable deterrents.
 
 Each Ranged Weapon has several specific attributes which determine its effectiveness. The ones which have a key bearing on combat are as follows:
 
@@ -1988,7 +1988,7 @@ Telescopic Sights make skill rolls easier by one or more Grades (see page 18), d
 
 ## Arms and Armor
 
-Presented here is a selection of armourarmor and weapons from a variety of settings and milieus.
+Presented here is a selection of armor and weapons from a variety of settings and milieus.
 
 **Sample Armor Table**
 
@@ -2089,7 +2089,7 @@ Size: All vehicles have one of six Size ratings which determines the value or ra
 
 ## Hull and Structure
 
-The size and purpose of a vehicle affects the thickness of its hull and resilience of its internal structure. A motorcycle, for example, has a minimal hull, built as it is for speed and agility. A Land Ironclad (a massive, tracked or wheeled armourarmored behemoth, powered by steam or diesel engines), being a much larger vehicle designed for the battlefield, has a much larger hull. The comparative sizes of hulls (and how many hits from weapons they can typically withstand), is summarised on the Vehicle Size table below.
+The size and purpose of a vehicle affects the thickness of its hull and resilience of its internal structure. A motorcycle, for example, has a minimal hull, built as it is for speed and agility. A Land Ironclad (a massive, tracked or wheeled armored behemoth, powered by steam or diesel engines), being a much larger vehicle designed for the battlefield, has a much larger hull. The comparative sizes of hulls (and how many hits from weapons they can typically withstand), is summarised on the Vehicle Size table below.
 
 Whenever a vehicle suffers harm, the incoming damage is reduced by its Hull value. Any remaining damage is subtracted from the vehicle's Structure points and has a percentage chance (equal to the penetrating damage) of affecting a System. If the vehicle is ever reduced to zero Structure it is either utterly destroyeddestroyed, or so badly wrecked it must be scrapped.
 
@@ -2633,7 +2633,7 @@ More spells can be learned, but it costs 3 Experience Rolls to learn a new spell
 
 ### Superheroes
 
-For superheroes, the Games Master and player should decide how the character came by his or her powers, and what the source of the power is (for example, it may be a suit of special armourarmor, abilities gained through exposure to cosmic rays, or a genetic mutation).
+For superheroes, the Games Master and player should decide how the character came by his or her powers, and what the source of the power is (for example, it may be a suit of special armor, abilities gained through exposure to cosmic rays, or a genetic mutation).
 
 Superheroes start with a number of core powers determined by POW plus another Characteristic based on the source of the powers: CON for altered physiology (mutation, alien species, experimentation) or INT for technology or skill basedskill-based powers (cybernetics, battle suits, intense training, and so on). See the table, below.
 
@@ -2744,7 +2744,7 @@ Darkness creates an area of shadow, equal to POW in square metres, which suppres
 
 Instant, Ranged, Resist (Endurance)
 
-Disruption is used for damaging or dissembling physical objects without the need for tools. It is commonly employed to drive off or kill living creatures, such as birds or vermin. When successfully cast, Disruption inflicts 1d3 damage to a single random Hit Location or the overall Hit Points of an object. In both cases the damage ignores any armourarmor or natural protection.
+Disruption is used for damaging or dissembling physical objects without the need for tools. It is commonly employed to drive off or kill living creatures, such as birds or vermin. When successfully cast, Disruption inflicts 1d3 damage to a single random Hit Location or the overall Hit Points of an object. In both cases the damage ignores any armor or natural protection.
 
 ### Extinguish
 
@@ -2854,7 +2854,7 @@ A character may also take up to two Limits from the list below, with one providi
 
 ### Animation
 
-Animate 2 cubic metres of non-living materials within POW in metres to create a construct, usually in a humanoid form. The cost in Power Points is equal to the armourarmor value of the highest value material used, which is also the base armourarmor value of the construct. Constructs have a base STR of 2d6+16 (23), SIZ of 1d6+12 (15), and a DEX of 1d6+8 (11), with Hit Points determined as normal. The character must use actions to direct the construct and it uses the character's skills for any rolls. If the construct takes a Serious Wound to the chest or abdomen, make an opposed Endurance check against the attack roll. If unsuccessful the construct immediately collapses. Example Armor Values/ Power Point Cost: Plastic or Soft Wood: 2, Concrete or Hard Wood: 4, Soft Metal or Stone: 6, Hard Metal: 8
+Animate 2 cubic metres of non-living materials within POW in metres to create a construct, usually in a humanoid form. The cost in Power Points is equal to the armor value of the highest value material used, which is also the base armor value of the construct. Constructs have a base STR of 2d6+16 (23), SIZ of 1d6+12 (15), and a DEX of 1d6+8 (11), with Hit Points determined as normal. The character must use actions to direct the construct and it uses the character's skills for any rolls. If the construct takes a Serious Wound to the chest or abdomen, make an opposed Endurance check against the attack roll. If unsuccessful the construct immediately collapses. Example Armor Values/ Power Point Cost: Plastic or Soft Wood: 2, Concrete or Hard Wood: 4, Soft Metal or Stone: 6, Hard Metal: 8
 
 _**Boost**_: Spend 2 Power Points to instantly move the construct to another source of the same material within POW in metres.
 
@@ -2876,7 +2876,7 @@ _**Boost**_: Spend 2 Power Points as a free action to regain Healing Rate in los
 
 Choose a specific material or type of energy. Spend an action to control up to half POW in cubic metres of the element anywhere within POW metres. May alter the basic form, orform or create complex shapes with a successful Craft (specific element) check. Upon creation choose either a close combat attack or a ranged attack. The close combat attack has a reach of Very Long and the ranged attack has a range of 8/24/100, then choose any two Combat Effects. Damage and force/size is determined by POW: 8 or less: 1d4/T, 9-12: 1d6/S, 13-15: 1d8/M, 16-18: 1d10/M, 19+: 1d12/L.
 
-_**Boost**_: Spend 3 Power Points to sheathe the character in the element for the scene. Solid materials gain an armourarmor value equal to one fifth POW, rounded up. If it is energy, unarmed attacks inflict extra damage equal to the base damage of the power and unarmed attacks against the character suffer the same damage to the limb used.
+_**Boost**_: Spend 3 Power Points to sheathe the character in the element for the scene. Solid materials gain an armor value equal to one fifth POW, rounded up. If it is energy, unarmed attacks inflict extra damage equal to the base damage of the power and unarmed attacks against the character suffer the same damage to the limb used.
 
 ### Energy Blast
 
@@ -2916,11 +2916,11 @@ Choose one sense. Perception checks with that sense are one skill grade easier.
 
 _**Boost**_: Spend 2 Power Points to use the core power for a different sense.
 
-### Inherent armourarmor
+### Inherent armor
 
-Provides an armourarmor value to all locations equal to one third of CON, rounded up. Characters may choose to reduce the value of a location by up to two points to add it to another location; for exampleexample, lowering the value of their right arm to add to their head.
+Provides an armor value to all locations equal to one third of CON, rounded up. Characters may choose to reduce the value of a location by up to two points to add it to another location; for exampleexample, lowering the value of their right arm to add to their head.
 
-_**Boost**_: When struck by an attack, gain an extra armourarmor point against it for each 1 Power Point spent.
+_**Boost**_: When struck by an attack, gain an extra armor point against it for each 1 Power Point spent.
 
 ### Life Support
 
@@ -3279,7 +3279,7 @@ Tail (Size: L, Damage 1d6+1d6 – can make Sweep attack)
 | _17-18_ | Left Arm | 6/5 |
 | _19-20_ | Head | 6/7 |
 
-Whenever the xenomorph is injured, its acidic blood sprays out over an attacker within hand-to-hand range. It inflicts 1d3 damage for 1d3 rounds to a random Hit Location. The acid will eat through armourarmor first before affecting the flesh below.
+Whenever the xenomorph is injured, its acidic blood sprays out over an attacker within hand-to-hand range. It inflicts 1d3 damage for 1d3 rounds to a random Hit Location. The acid will eat through armor first before affecting the flesh below.
 
 ## Creature Abilities
 
@@ -3355,7 +3355,7 @@ The creature automatically succeeds in everyday moving and manoeuvring whilst fl
 
 #### Formidable Natural Weapons
 
-This creature is able tocan actively parry or deflect attacks using its natural weapons. This is due to a combination of fighting style and possessing natural armament being formed from resilient substances such as horn, chitin or bone which are able tocan shrug off damage from manufactured weapons. Note that creatures lacking this trait either rely on their natural armourarmor to turn blows or use Evade.
+This creature is able tocan actively parry or deflect attacks using its natural weapons. This is due to a combination of fighting style and possessing natural armament being formed from resilient substances such as horn, chitin or bone which are able tocan shrug off damage from manufactured weapons. Note that creatures lacking this trait either rely on their natural armor to turn blows or use Evade.
 
 #### Frenzy
 
