@@ -3062,6 +3062,7 @@ Claw (Size: H, Damage 1d8+1d12)
 | _19-20_ | Head | 3/10 |
 
 ### Crocodile/Alligator
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/11809/)
 
 SIZ: 37, Action Points: 2, Damage Modifier: +2d6, Magic Points: 7, Initiative Bonus: +13, Move: 6m6m.
 
