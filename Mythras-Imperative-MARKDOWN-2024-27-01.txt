@@ -414,17 +414,19 @@ Instead of allocating points from the Cultural, Career and Bonus Skill Points po
 
 Which forms a handy pyramid. Simply cross off each value as it is allocated.
 
-50
+```
+    50
 
-40 40
+   40 40
 
-30 30 30
+  30 30 30
 
-20 20 20 20
+ 20 20 20 20
 
 10 10 10 10 10
+```
 
-A Few Simple Rules
+### A Few Simple Rules
 
 - All points from the pyramid must be allocated.
 - No skill can have more than one allocation from the pyramid.
@@ -1098,7 +1100,7 @@ Victims initially suffer a minor rash, but within a day come down with a serious
 
 ## Falling
 
-The amount of damage suffered in a fall depends on the distance of the drop. ArmourArmor Points do not reduce falling damage, but the Damage Modifier of the falling character or creature applies to the damage suffered from the fall.
+The amount of damage suffered in a fall depends on the distance of the drop. Armor Points do not reduce falling damage, but the Damage Modifier of the falling character or creature applies to the damage suffered from the fall.
 
 **Falling Distance Table**
 
@@ -1152,7 +1154,7 @@ Note that the table below represents Fatigue recovery for physical exertion. Fat
 
 Fires are always a source of danger when used as a weapon or rage out of control. The Fire Intensity table below gives five different intensities for heat damage, with some examples. The damage inflicted per Round is given in the Damage column. Being relatively small, Intensity 1 and 2 sources apply their damage to a single Hit Location, usually that touching the source. Intensity 3 and 4 sources are larger, applying damage to nearest 1d4+1 Hit Locations, indicating the degree of radiant heat. Intensity 5 sources affect all Hit Locations simultaneously.
 
-Fire can ignite flammable materials. If not extinguished immediately such materials combust within a number of Rounds as indicated by the fire's Intensity. Once ignited, flammable materials burn until physically extinguished. Damage is applied directly to the Hit Points of the material, ignoring ArmourArmor Points, and to any flesh beneath. If left. uncontrolled it spreads to a number of Hit Locations, per Round, equal to its Intensity.
+Fire can ignite flammable materials. If not extinguished immediately such materials combust within a number of Rounds as indicated by the fire's Intensity. Once ignited, flammable materials burn until physically extinguished. Damage is applied directly to the Hit Points of the material, ignoring Armor Points, and to any flesh beneath. If left. uncontrolled it spreads to a number of Hit Locations, per Round, equal to its Intensity.
 
 **Fire Intensity Table**
 
@@ -1164,7 +1166,7 @@ Fire can ignite flammable materials. If not extinguished immediately such materi
 | 4 | Room filling conflagration | 1d2 | 2d6 |
 | 5 | Volcanic lava | Instant | 3d6 |
 
-Fire-based attacks typically have a percentage chance of igniting flammable materials as they are generally over in a single Round. Unless otherwise noted, this chance is damage rolled x5% for fire-based attacks, and damage rolled x1% for electrical. Once ignited, flammable materials burn for 1d3-1 damage every Round until physically extinguished. Apply this damage directly to the Hit Points of the material, ignoring ArmourArmor Points, and to any flesh beneath. A creature's natural ArmourArmor offers its normal protection, however. The victim may attempt to smother the flames by dropping prone and making a successful Athletics roll, which requires an Action Point and may be attempted each Turn. If others assist in smothering the flames in some way, the roll is one Difficulty Grade easier. If the damage roll results in zero damage, the fire has gone out on its own in that one location. For each location that had gone out on its own, the roll to smother the flames is also one Difficulty Grade easier.
+Fire-based attacks typically have a percentage chance of igniting flammable materials as they are generally over in a single Round. Unless otherwise noted, this chance is damage rolled x5% for fire-based attacks, and damage rolled x1% for electrical. Once ignited, flammable materials burn for 1d3-1 damage every Round until physically extinguished. Apply this damage directly to the Hit Points of the material, ignoring Armor Points, and to any flesh beneath. A creature's natural Armor offers its normal protection, however. The victim may attempt to smother the flames by dropping prone and making a successful Athletics roll, which requires an Action Point and may be attempted each Turn. If others assist in smothering the flames in some way, the roll is one Difficulty Grade easier. If the damage roll results in zero damage, the fire has gone out on its own in that one location. For each location that had gone out on its own, the roll to smother the flames is also one Difficulty Grade easier.
 
 ## Game Time
 
@@ -1215,7 +1217,7 @@ The rolled damage for the weapon or attack is modified by the certain conditions
 1. Apply the Damage Modifier for the character making the attackattack.
 2. Modify the damage from any weapon enhancing (or reducing) magicmagic.
 3. If parried, reduce the damage appropriately as per the comparative weapon sizessizes.
-4. If the Hit Location is armourarmored, reduce damage by the ArmourArmor Points valuevalue.
+4. If the Hit Location is armourarmored, reduce damage by the Armor Points valuevalue.
 
 If the damage inflicted by the attack is above zero, then the Hit Location sustains that amount of damage, with the damage total being immediately removed from the location's Hit Points. Note how many Hit Points the location has remaining, and the wound category that results.
 
@@ -1274,17 +1276,17 @@ There are certain restrictions on natural healing:
 
 ## Inanimate Objects
 
-All inanimate objects possess ArmourArmor Points and Hit Points which are used to determine resistance to damage and destruction. ArmourArmor Points reduce damage before Hit Points are affected. Once an object's Hit Points have been reduced to zero, it is useless.
+All inanimate objects possess Armor Points and Hit Points which are used to determine resistance to damage and destruction. Armor Points reduce damage before Hit Points are affected. Once an object's Hit Points have been reduced to zero, it is useless.
 
 Breakage attempts require a character to make a Brawn, Unarmed or Combat Style roll, as appropriate, to inflict damage. A success deals damage to the item.
 
 ### Weapons vs Inanimate Objects
 
-Using a weapon against an inanimate object with ArmourArmor Points equal to or greater than those of the weapon deals damage to both the object and the weapon. For instance, using an axe on an iron door may damage the door, but the axe itself will be destroyed long before the iron door is. The Games Master should exercise discretion on which weapons or tools can affect which objects. A chisel, for example, is explicitly designed to carve wood or stone whilst a sword, although sharp, is not. The chisel would therefore not take damage from something it is attempting to carve whereas a sword most likely would.
+Using a weapon against an inanimate object with Armor Points equal to or greater than those of the weapon deals damage to both the object and the weapon. For instance, using an axe on an iron door may damage the door, but the axe itself will be destroyed long before the iron door is. The Games Master should exercise discretion on which weapons or tools can affect which objects. A chisel, for example, is explicitly designed to carve wood or stone whilst a sword, although sharp, is not. The chisel would therefore not take damage from something it is attempting to carve whereas a sword most likely would.
 
 **Inanimate Objects**
 
-| Object | ArmourArmor Points/Hit Points |
+| Object | Armor Points/Hit Points |
 | --- | --- |
 | Castle Gate | 8/150 |
 | Castle Wall | 10/500 |
@@ -1513,7 +1515,7 @@ Switch Fire allows the user of an automatic or dual-purpose firearm to change th
 
 #### Take Cover
 
-Take Cover is a proactive action which allows a shooter to duck behind whatever cover is available in their immediate vicinity, thereby gaining some degree of protection against incoming fire. Unlike Evade it does not leave the user prone but does rely on some form of cover being available, for example ducking back around a corner in a corridor or crouching down behind a table in a bar. Depending on circumstances, the available cover may or may not be sufficient to completely protect the character. The type of cover will also determine its protective qualities; a thick steel door for instance may prove impenetrable to bullets, whereas a thin wooden wall might only provide 4 ArmourArmor Points. For general guidelines concerning the protective qualities of certain materials, see the 'Inanimate Objects ArmourArmor and Hit Points' table on page XX.
+Take Cover is a proactive action which allows a shooter to duck behind whatever cover is available in their immediate vicinity, thereby gaining some degree of protection against incoming fire. Unlike Evade it does not leave the user prone but does rely on some form of cover being available, for example ducking back around a corner in a corridor or crouching down behind a table in a bar. Depending on circumstances, the available cover may or may not be sufficient to completely protect the character. The type of cover will also determine its protective qualities; a thick steel door for instance may prove impenetrable to bullets, whereas a thin wooden wall might only provide 4 Armor Points. For general guidelines concerning the protective qualities of certain materials, see the 'Inanimate Objects Armor and Hit Points' table on page XX.
 
 ### Reactive Actions
 
@@ -1583,7 +1585,7 @@ These movement rates are situational and are not always an option. Many are deta
 
 #### Climb
 
-A character that moves adjacent to or starts the Turn next to a climbable surface or object may climb at a rate equal to the Base Movement Rate. The character cannot have moved faster than a Walk and must have movement remaining, with the distance climbed being reduced by any movement already used. Worn armourarmor hinders climbers by an amount equal to the ArmourArmor Points of the heaviest item worn.
+A character that moves adjacent to or starts the Turn next to a climbable surface or object may climb at a rate equal to the Base Movement Rate. The character cannot have moved faster than a Walk and must have movement remaining, with the distance climbed being reduced by any movement already used. Worn armourarmor hinders climbers by an amount equal to the Armor Points of the heaviest item worn.
 
 #### Crawl
 
@@ -1599,7 +1601,7 @@ A character that moves adjacent to or starts the Turn next to a body of water ma
 
 ## How Combat Works
 
-Fighting in _Mythras__Imperative_ is resolved with each attack or parry representing a single stab, swing, spell cast, or shot of a weapon. Any offensive Action permits the chance to be resisted by a reaction. Thus, even if a character manages to strike an opponent, the foe is permitted their own roll to see if they can parry the blow before it lands. The same philosophy is used whether the attacks are missile weapons against targets diving for cover or trying to break free from the iron grasp of a giant octopus.
+Fighting in _Mythras Imperative_ is resolved with each attack or parry representing a single stab, swing, spell cast, or shot of a weapon. Any offensive Action permits the chance to be resisted by a reaction. Thus, even if a character manages to strike an opponent, the foe is permitted their own roll to see if they can parry the blow before it lands. The same philosophy is used whether the attacks are missile weapons against targets diving for cover or trying to break free from the iron grasp of a giant octopus.
 
 ### Attacks and Parries
 
@@ -1611,13 +1613,13 @@ Close combat is handled in the following step-by-step manner:
 4. Any difference grants the successful combatant with the superior roll one or more Special Effects.
 5. If the attacker achieved a Success or Critical, they may roll weapon damage and apply their Damage Modifier (if any). If applicable, a Hit Location is determined for the blow.
 6. If the defender achieved a Success or Critical, reduce any damage inflicted according to the comparative sizes of the weapons involved.
-7. Reduce any remaining damage by the ArmourArmor Points of natural or worn protection.
+7. Reduce any remaining damage by the Armor Points of natural or worn protection.
 
 Note that any Special Effects generated by the exchange are independent of whether damage is inflicted. It is quite possible for a defender to gain the higher success level, yet still suffer injury.
 
 ### Weapon Size
 
-Every weapon in _Mythras__Imperative_ possesses several different attributes from the damage it deals to how many hands are required to wield it. Size is a combination of a weapon's mass, leverage, and stability, and is used to determine the weapon's ability to impose and parry damage. Size categories are Small, Medium, Large, Huge, and Enormous. The unarmed attacks of creatures are assigned similar categories according to their physical characteristics.
+Every weapon in _Mythras Imperative_ possesses several different attributes from the damage it deals to how many hands are required to wield it. Size is a combination of a weapon's mass, leverage, and stability, and is used to determine the weapon's ability to impose and parry damage. Size categories are Small, Medium, Large, Huge, and Enormous. The unarmed attacks of creatures are assigned similar categories according to their physical characteristics.
 
 ### Damage Reduction
 
@@ -1629,11 +1631,11 @@ If a defender succeeds in parrying, then they can reduce an attacker's damage, i
 
 _For example, parrying a great axe (Huge) with a kite shield (also Huge) would block all damage; parrying it with a Longsword (Large) would halve the damage, and parrying it with a shortsword (Medium) would stop no damage at all._
 
-### armourArmor
+### Armor
 
-Any damage which penetrates the defender's Parry is further reduced by the ArmourArmor Points of any natural protection (such as scales or a shell) or worn armourarmor they possess. If the defender has both, then the two stack together to reduce damage.
+Any damage which penetrates the defender's Parry is further reduced by the Armor Points of any natural protection (such as scales or a shell) or worn armourarmor they possess. If the defender has both, then the two stack together to reduce damage.
 
-Due to its mass and restriction to movement, the highest ArmourArmor Point value of armourarmor worn by a character acts as a penalty to their Initiative roll.
+Due to its mass and restriction to movement, the highest Armor Point value of armourarmor worn by a character acts as a penalty to their Initiative roll.
 
 ### Parrying a Missed Attack
 
@@ -1665,128 +1667,38 @@ When two or more Special Effects are gained, the combatant may freely mix and ma
 
 | Special Effect | Offensive | Defensive | Special Weapon Type | Specific Roll | Stackable |
 | --- | --- | --- | --- | --- | --- |
-| Accidental Injury |
- | X |
- | Attacker Fumbles |
- |
-| Arise |
- | X |
- |
- |
- |
-| Bash | X |
- | Shields or Bludgeoning |
- |
- |
-| Bleed | X |
- | Cutting Weapons | Firearms: Attacker Criticals |
- |
-| Blind Opponent |
- | X |
- | Defender Criticals |
- |
-| Bypass Armor | X |
- |
- | Attacker Criticals | X |
-| Choose Location | X |
- |
- | See Description |
- |
-| Circumvent Cover | X |
- | High Tech Firearms Only |
- |
- |
-| Circumvent Parry | X |
- |
- | Attacker Criticals |
- |
-| Damage Weapon | X | X |
- |
- |
- |
-| Disarm Opponent | X | X |
- |
- |
- |
-| Drop Foe | X |
- | Firearms Only |
- |
- |
-| Duck Back | X |
- | Firearms Only |
- |
- |
-| Enhance Parry |
- | X |
- | Defender Criticals |
- |
-| Entangle | X | X | Entangling Weapons |
- |
- |
-| Force Failure | X | X |
- | Opponent Fumbles |
- |
-| Grip | X |
- | Unarmed |
- |
- |
-| Impale | X |
- | Impaling Weapons |
- |
- |
-| Marksman | X |
- | Ranged Weapons |
- |
- |
-| Maximize Damage | X |
- |
- | Attacker Criticals | X |
-| Overpenetration | X |
- | Firearms Only | Attacker Criticals |
- |
-| Pin Down | X |
- | Firearms Only |
- | X |
-| Prepare Counter |
- | X |
- |
- | X |
-| Rapid Reload | X |
- |
- |
- | X |
-| Scar Foe | X | X |
- |
- |
- |
-| Select Target |
- | X |
- | Attacker Fumbles |
- |
-| Slip Free |
- | X |
- | Defender Criticals |
- |
-| Stun Location | X |
- | Bludgeoning Weapons |
- |
- |
-| Sunder | X |
- | Two Handed Weapons |
- |
- |
-| Trip Opponent | X | X |
- |
- |
- |
-| Weapon Malfunction |
- | X | Firearms Only | Attacker Fumbles |
- |
-| Withdraw |
- | X |
- |
- |
- |
+| Accidental Injury | | X | | Attacker Fumbles | |
+| Arise | | X | | | |
+| Bash | X | | Shields or Bludgeoning | | |
+| Bleed | X | | Cutting Weapons | Firearms: Attacker Criticals | |
+| Blind Opponent | | X | | Defender Criticals | |
+| Bypass Armor | X | | | Attacker Criticals | X |
+| Choose Location | X | | | See Description | |
+| Circumvent Cover | X | | High Tech Firearms Only | | |
+| Circumvent Parry | X | | | Attacker Criticals | |
+| Damage Weapon | X | X | | | |
+| Disarm Opponent | X | X | | | |
+| Drop Foe | X | | Firearms Only | | |
+| Duck Back | X | | Firearms Only | | |
+| Enhance Parry | | X | | Defender Criticals | |
+| Entangle | X | X | Entangling Weapons | | |
+| Force Failure | X | X | | Opponent Fumbles | |
+| Grip | X | | Unarmed | | |
+| Impale | X | | Impaling Weapons | | |
+| Marksman | X | | Ranged Weapons | | |
+| Maximize Damage | X | | | Attacker Criticals | X |
+| Overpenetration | X | | Firearms Only | Attacker Criticals | |
+| Pin Down | X | | Firearms Only | | X |
+| Prepare Counter | | X | | | X |
+| Rapid Reload | X | | | | X |
+| Scar Foe | X | X | | | |
+| Select Target | | X | | Attacker Fumbles | |
+| Slip Free | | X | | Defender Criticals | |
+| Stun Location | X | | Bludgeoning Weapons | | |
+| Sunder | X | | Two Handed Weapons | | |
+| Trip Opponent | X | X | | | |
+| Weapon Malfunction | | X | Firearms Only | Attacker Fumbles | |
+| Withdraw | | X | | | |
 
 ### Special Effect Descriptions
 
@@ -1796,17 +1708,17 @@ When two or more Special Effects are gained, the combatant may freely mix and ma
 
 **Bash** : The attacker deliberately bashes the opponent off balance. How far the defender totters back or sideward depends on the weapon being used. Shields knock an opponent back one metre for every 2 points of damage rolled (prior to any subtractions due to armourarmor, parries, and so forth), whereas bludgeoning weapons knock back one metre for every three points. Bashing works only on creatures up to twice the attacker's SIZ. If the recipient is forced backward into an obstacle, then they must make a Hard Athletics or Acrobatics skill roll to avoid falling or tripping over. For firearms, since Bash relies more on catching an opponent off balance, rather than throwing them backwards by pure force, it is perfectly reasonable for projectile ammunition to cause a target to stagger if it strikes an extremity. Energy weapons are less likely to inflict such an effect unless the physics of the beam result in some sort of surface explosion.
 
-**Bleed** : The attack cuts open a major blood vessel. If the blow overcomes ArmourArmor Points and injures the target, the defender must make an Opposed Roll of Endurance against the original attack roll. If the defender Fails, then they begin to bleed profusely. At the start of each Combat Round, the recipient loses one level of Fatigue, until they collapse and possibly die. Bleeding wounds can be staunched by passing a First Aid skill roll, but the recipient can no longer perform any strenuous or violent action without re-opening the wound. See Blood Loss, in the Game System section. For firearms, since most firearms produce very narrow wound paths, it is actually moremore difficult to nick or sever a major blood vessel than it is with a slicing or stabbing weapon. Due to this Bleed should be a Critical Success only – unless the gun is some sort of weird weaponry which fires shuriken, razor fléchettes, flattened force fields or some such exotic ammunition.
+**Bleed** : The attack cuts open a major blood vessel. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance against the original attack roll. If the defender Fails, then they begin to bleed profusely. At the start of each Combat Round, the recipient loses one level of Fatigue, until they collapse and possibly die. Bleeding wounds can be staunched by passing a First Aid skill roll, but the recipient can no longer perform any strenuous or violent action without re-opening the wound. See Blood Loss, in the Game System section. For firearms, since most firearms produce very narrow wound paths, it is actually moremore difficult to nick or sever a major blood vessel than it is with a slicing or stabbing weapon. Due to this Bleed should be a Critical Success only – unless the gun is some sort of weird weaponry which fires shuriken, razor fléchettes, flattened force fields or some such exotic ammunition.
 
 **Blind Opponent** : On a Critical the defender briefly blinds his opponent by throwing sand, reflecting sunlight off his shield, or some other tactic that briefly interferes with the attacker's vision. The attacker must make an Opposed Roll of his Evade skill (or Weapon skill if using a shield) against the defender's original Parry roll. If the attacker Fails, they suffer a situational modifier of Hard or Formidable for the next 1d3 Turns, depending on the method of blinding.
 
-**Bypass armourarmor** : On a Critical the attacker finds a gap in the defender's natural or worn armourarmor. If the defender is wearing armourarmor above natural protection, then the attacker must decide which of the two is bypassed. This effect can be stacked to bypass both. For the purposes of this effect, physical protection gained from magic is considered as being worn armourarmor. Although Bypass ArmourArmor can ostensibly be used with any sort of attack, some types of ammunition might either be prevented from accessing this effect (shot gun pellets due to their spread) or built into their base performance, granting it as a bonus special effect in addition to any others won (Teleportation rounds). Much depends on how the Game Master wishes to model the weapon.
+**Bypass armourarmor** : On a Critical the attacker finds a gap in the defender's natural or worn armourarmor. If the defender is wearing armourarmor above natural protection, then the attacker must decide which of the two is bypassed. This effect can be stacked to bypass both. For the purposes of this effect, physical protection gained from magic is considered as being worn armourarmor. Although Bypass Armor can ostensibly be used with any sort of attack, some types of ammunition might either be prevented from accessing this effect (shot gun pellets due to their spread) or built into their base performance, granting it as a bonus special effect in addition to any others won (Teleportation rounds). Much depends on how the Game Master wishes to model the weapon.
 
 **Choose Location** : When using hand-to-hand melee weapons the attacker may freely select the location where the blow lands, as long as that location is normally within reach. If using Ranged Weapons Choose Location is a Critical Success only, unless the target is within Close Range and is either stationary or unaware of the attacker. For firearms, as per the default rules, Choose Location should be restricted to being a Critical Success only, unless the target is within close range and is either stationary or unaware of the impending attack. Telescopic scopes may extend this range.
 
 **Circumvent Parry:** On a Critical the attacker may completely bypass an otherwise successful Parry.
 
-**Damage Weapon** : Permits the character to damage his opponent's weapon as part of an Attack or Parry. If attacking, the character aims specifically at the defender's Parrying weapon and applies his damage roll to it, rather than the wielder. The targeted weapon uses its own ArmourArmor Points for resisting the damage. If reduced to zero Hit Points the weapon breaks. For firearms, since striking a handheld weapon at range is even more difficult than targeting a specific body location, this should generally be reserved for Critical Successes only. There are several exceptions however, the first being that a shield should, by its very nature, be much easier to hit. The second concerns exotic weapons which fire a cone shaped beam able to target handheld objects within its area of affect; for instance, an induction gun that heats metal objects.
+**Damage Weapon** : Permits the character to damage his opponent's weapon as part of an Attack or Parry. If attacking, the character aims specifically at the defender's Parrying weapon and applies his damage roll to it, rather than the wielder. The targeted weapon uses its own Armor Points for resisting the damage. If reduced to zero Hit Points the weapon breaks. For firearms, since striking a handheld weapon at range is even more difficult than targeting a specific body location, this should generally be reserved for Critical Successes only. There are several exceptions however, the first being that a shield should, by its very nature, be much easier to hit. The second concerns exotic weapons which fire a cone shaped beam able to target handheld objects within its area of affect; for instance, an induction gun that heats metal objects.
 
 **Disarm Opponent** : The character knocks, yanks, or twists the opponent's weapon out of his hand. The opponent must make an Opposed Roll of his Combat Style against the character's original roll. If the recipient of the disarm loses, his weapon is flung a distance equal to the roll of the disarmer's Damage Modifier in metres. If there is no Damage Modifier, then the weapon drops at the disarmed person's feet. The comparative size of the weapons affects the roll. Each step that the disarming character's weapon is larger increases the difficulty of the opponent's roll by one grade. Conversely, each step the disarming character's weapon is smaller makes the difficulty one grade easier. Disarming works only on creatures of up to twice the attacker's STR.
 
@@ -1857,9 +1769,9 @@ Although a pinned victim is unable to fire back for the requisite time, they can
 
 **Slip**** Free**: On a Critical the defender can automatically escape being Entangled, Gripped, or Pinned.
 
-**Stun**** Location**: The attacker can use a bludgeoning weapon to temporarily stun the body part struck. If the blow overcomes ArmourArmor Points and injures the target, the defender must make an Opposed Roll of Endurance vs. the original attack roll. If the defender Fails, then the Hit Location is Incapacitated for a number of Turns equal to the damage inflicted. A blow to the torso causes the defender to stagger winded, only able to defend. A head shot renders the foe briefly insensible and unable to act.
+**Stun**** Location**: The attacker can use a bludgeoning weapon to temporarily stun the body part struck. If the blow overcomes Armor Points and injures the target, the defender must make an Opposed Roll of Endurance vs. the original attack roll. If the defender Fails, then the Hit Location is Incapacitated for a number of Turns equal to the damage inflicted. A blow to the torso causes the defender to stagger winded, only able to defend. A head shot renders the foe briefly insensible and unable to act.
 
-**Sunder** : The attacker may use a suitable weapon, such as an axe, to damage the armourarmor or natural protection of an opponent. Any weapon damage, after reductions for parrying or magic, is applied against the armourarmor Point value of the protection. Surplus damage over its ArmourArmor Points is then used to reduce the ArmourArmor Point value of that armourarmor(ed) location – ripping straps, bursting rings, creasing plates, or tearing away the hide, scales, or chitin of monsters. If any damage remains after the protection has been reduced to zero AP, it carries over onto the Hit Points of the location struck. For firearms, Sunder would be suitable for energy-based firearms designed to destroy ablative armourarmors or more exotic concepts like gravity wave guns.
+**Sunder** : The attacker may use a suitable weapon, such as an axe, to damage the armourarmor or natural protection of an opponent. Any weapon damage, after reductions for parrying or magic, is applied against the armourarmor Point value of the protection. Surplus damage over its Armor Points is then used to reduce the Armor Point value of that armourarmor(ed) location – ripping straps, bursting rings, creasing plates, or tearing away the hide, scales, or chitin of monsters. If any damage remains after the protection has been reduced to zero AP, it carries over onto the Hit Points of the location struck. For firearms, Sunder would be suitable for energy-based firearms designed to destroy ablative armourarmors or more exotic concepts like gravity wave guns.
 
 **Trip**** Opponent**: The character attempts to overbalance or throw his opponent to the ground. The opponent must make an Opposed Roll of his Brawn, Evade, or Acrobatics against the character's original roll. If the target Fails, they fall prone. Quadruped opponents (or creatures with even more legs) may substitute their Athletics skill for Evade and treat the roll as one Difficulty Grade easier. For firearms, assuming the firearm actually shootsshoots ammunition with mass, there is no reason that this effect couldn't be used when shooting at the legs of an opponent, even if no damage penetrates any worn protection.
 
@@ -2066,7 +1978,7 @@ Since gunfire is not normally resisted by an opposing skill, a special provision
 
 As expressed earlier, it is almost impossible to deliberately parry a supersonic projectile or energy beam. Shields however still provide a degree of protection since in effect they are portable 'cover'..' To utilise a shield in a fire-fightfirefight, just use the Passive Blocking rules on page XX.
 
-With regard toRegarding more modern firearms or those of a science fiction nature, a Game Master may wish to grant the shield an ArmourArmor Point value rather than assigning it a Size, based upon the inherent material it is made from. For exampleexample, a wooden shield might be treated as 4 ArmourArmor Points, a Kevlar tactical shield 8 AP, and a Ulysses 31 bracelet force field shield 15 AP.
+With regard toRegarding more modern firearms or those of a science fiction nature, a Game Master may wish to grant the shield an Armor Point value rather than assigning it a Size, based upon the inherent material it is made from. For exampleexample, a wooden shield might be treated as 4 Armor Points, a Kevlar tactical shield 8 AP, and a Ulysses 31 bracelet force field shield 15 AP.
 
 ### Telescopic Sights
 
@@ -2074,34 +1986,24 @@ A telescopic sight improves the accuracy of a firearm over greater distances whe
 
 Telescopic Sights make skill rolls easier by one or more Grades (see page 18), depending on the sophistication of the sight. No sight can make a skill roll an Automatic success, so the best Grade that can be attained is Very Easy.
 
-## Arms and ArmourArmor
+## Arms and Armor
 
 Presented here is a selection of armourarmor and weapons from a variety of settings and milieus.
 
-**Sample ArmourArmor Table**
+**Sample Armor Table**
 
-| Ancient/Medieval | Modern | Futuristic | ArmourArmor Points |
+| Ancient/Medieval | Modern | Futuristic | Armor Points |
 | --- | --- | --- | --- |
-| Furs/Hides | Bike Leathers |
- | 1 |
-| Aketon, Gambeson | Sports Gear |
- | 2 |
-| Linothorax | Ballistic Cloth |
- | 3 |
-| Brigandine | Flak Jacket | Liquid Body ArmourArmor | 4 |
-| Hoplite Plate | Riot Gear |
- | 5 |
+| Furs/Hides | Bike Leathers | | 1 |
+| Aketon, Gambeson | Sports Gear | | 2 |
+| Linothorax | Ballistic Cloth | | 3 |
+| Brigandine | Flak Jacket | Liquid Body Armor | 4 |
+| Hoplite Plate | Riot Gear | | 5 |
 | Mail | Type I Bulletproof Vest | Adaptive Mesh | 6 |
-| Plated Mail | Type II Bulletproof Vest |
- | 7 |
-|
- | Type III Bulletproof Vest | Light Assault ArmourArmor | 8 |
-|
- | Type IV Bulletproof Vest |
- | 10 |
-|
- |
- | Full Assault ArmourArmor | 12 |
+| Plated Mail | Type II Bulletproof Vest | | 7 |
+| | Type III Bulletproof Vest | Light Assault Armor | 8 |
+| | Type IV Bulletproof Vest | | 10 |
+| | | Full Assault Armor | 12 |
 
 **Sample Shield Table**
 
@@ -2117,7 +2019,7 @@ Presented here is a selection of armourarmor and weapons from a variety of setti
 
 | Weapon | Damage | Size | AP/HP | Notes |
 | --- | --- | --- | --- | --- |
-| Axe | 1d6+1 | M | 4/8 | Can Sunder ArmourArmor |
+| Axe | 1d6+1 | M | 4/8 | Can Sunder Armor |
 | Broadsword | 1d8 | M | 6/10 | — |
 | Chain | 1d4 | M | 8/6 | Can entangle |
 | Club | 1d6 | M | 4/4 | — |
@@ -2162,7 +2064,7 @@ All vehicles are described in terms of their Structure, Hull, Speed, Systems, Tr
 
 Size: All vehicles have one of six Size ratings which determines the value or range of the rest of the characteristics. Due to their larger intrinsic size and the hostile environments of space, starships have their own range of values.
 
-**Hull** : Represents ArmourArmor Points
+**Hull** : Represents Armor Points
 
 **Structure** : Represents a vehicle's Hit Points
 
@@ -2227,17 +2129,13 @@ A driver can attempt to push a vehicle's speed by 2 steps, but this requires a H
 | Speed Rating | Max Speed For |
 | --- | --- |
 | Ponderous | Enormous |
-| Sluggish |
- |
+| Sluggish | |
 | Slow | Huge |
-| Mediocre |
- |
+| Mediocre | |
 | Gentle | Large |
-| Moderate |
- |
+| Moderate | |
 | Rapid | Medium |
-| Fast |
- |
+| Fast | |
 | Fleet | Small |
 
 ## Systems
@@ -2956,7 +2854,7 @@ A character may also take up to two Limits from the list below, with one providi
 
 ### Animation
 
-Animate 2 cubic metres of non-living materials within POW in metres to create a construct, usually in a humanoid form. The cost in Power Points is equal to the armourarmor value of the highest value material used, which is also the base armourarmor value of the construct. Constructs have a base STR of 2d6+16 (23), SIZ of 1d6+12 (15), and a DEX of 1d6+8 (11), with Hit Points determined as normal. The character must use actions to direct the construct and it uses the character's skills for any rolls. If the construct takes a Serious Wound to the chest or abdomen, make an opposed Endurance check against the attack roll. If unsuccessful the construct immediately collapses. Example ArmourArmor Values/ Power Point Cost: Plastic or Soft Wood: 2, Concrete or Hard Wood: 4, Soft Metal or Stone: 6, Hard Metal: 8
+Animate 2 cubic metres of non-living materials within POW in metres to create a construct, usually in a humanoid form. The cost in Power Points is equal to the armourarmor value of the highest value material used, which is also the base armourarmor value of the construct. Constructs have a base STR of 2d6+16 (23), SIZ of 1d6+12 (15), and a DEX of 1d6+8 (11), with Hit Points determined as normal. The character must use actions to direct the construct and it uses the character's skills for any rolls. If the construct takes a Serious Wound to the chest or abdomen, make an opposed Endurance check against the attack roll. If unsuccessful the construct immediately collapses. Example Armor Values/ Power Point Cost: Plastic or Soft Wood: 2, Concrete or Hard Wood: 4, Soft Metal or Stone: 6, Hard Metal: 8
 
 _**Boost**_: Spend 2 Power Points to instantly move the construct to another source of the same material within POW in metres.
 
@@ -3112,7 +3010,7 @@ Bite (Size: M, Damage 1d6+1d2)
 
 Sting (Size: M, Damage 1d4+1d2)
 
-**Hit Locations, ArmourArmor Points/Hit Points**
+**Hit Locations, Armor Points/Hit Points**
 
 | _**1d20**_ | **Location** | **AP/HP** |
 | --- | --- | --- |
@@ -3140,7 +3038,7 @@ Bite (Size: L, Damage 1d8+1d12,)
 
 Claw (Size: H, Damage 1d8+1d12)
 
-**Hit Locations, ArmourArmor Points/Hit Points**
+**Hit Locations, Armor Points/Hit Points**
 
 | _**1d20**_ | **Location** | **AP/HP** |
 | --- | --- | --- |
@@ -3166,7 +3064,7 @@ Bite (Size: H, Damage 1d10+2d6)
 
 Tail (Size: H, Damage 1d8+2d6 – can make Sweep attack)
 
-**Hit Locations, ArmourArmor Points/Hit Points**
+**Hit Locations, Armor Points/Hit Points**
 
 | _**1d20**_ | **Location** | **AP/HP** |
 | --- | --- | --- |
@@ -3201,7 +3099,7 @@ Flame Breath: 4d6. The fire breathed by a dragon stretches in a cone for a numbe
 
 Trample (Size: C, Damage 4d8)
 
-**Hit Locations, ArmourArmor Points/Hit Points**
+**Hit Locations, Armor Points/Hit Points**
 
 | _**1d20**_ | **Location** | **AP/HP** |
 | --- | --- | --- |
@@ -3232,7 +3130,7 @@ Spear (Size: M, Damage 1d8+1)
 
 Shield (Size: L, Damage 1d4, Protects 3 locations for Passive Blocking/Warding)
 
-**Hit Locations, ArmourArmor Points/Hit Points**
+**Hit Locations, Armor Points/Hit Points**
 
 | _**1d20**_ | **Location** | **AP/HP** |
 | --- | --- | --- |
@@ -3256,7 +3154,7 @@ SIZ: 31, Action Points: 2, Damage Modifier: +1d12, Magic Points: 7, Initiative B
 
 Hoof (Size: H, Damage 1d6+1d12)
 
-**Hit Locations, ArmourArmor Points/Hit Points**
+**Hit Locations, Armor Points/Hit Points**
 
 | _**1d20**_ | **Location** | **AP/HP** |
 | --- | --- | --- |
@@ -3286,7 +3184,7 @@ Shield (Size: E, Damage 1d8+1d6)
 
 Gore (Size L, Damage 1d8+1d6)
 
-**Hit Locations, ArmourArmor Points/Hit Points**
+**Hit Locations, Armor Points/Hit Points**
 
 | _**1d20**_ | **Location** | **AP/HP** |
 | --- | --- | --- |
@@ -3310,7 +3208,7 @@ Combat Style: Jaws (Bite), 81%
 
 Bite (Size: E, Damage 1d10+2d6
 
-**Hit Locations, ArmourArmor Points/Hit Points**
+**Hit Locations, Armor Points/Hit Points**
 
 | _**1d20**_ | **Location** | **AP/HP** |
 | --- | --- | --- |
@@ -3340,7 +3238,7 @@ Spear (Size: H, Damage 1d8+1)
 
 Shield (Size: L, Damage 1d4)
 
-**Hit Locations, ArmourArmor Points/Hit Points**
+**Hit Locations, Armor Points/Hit Points**
 
 | _**1d20**_ | **Location** | **AP/HP** |
 | --- | --- | --- |
@@ -3368,7 +3266,7 @@ Claw (Size: M, Damage 1d4+1+1d6)
 
 Tail (Size: L, Damage 1d6+1d6 – can make Sweep attack)
 
-**Hit Locations, ArmourArmor Points/Hit Points**
+**Hit Locations, Armor Points/Hit Points**
 
 | _**1d20**_ | **Location** | **AP/HP** |
 | --- | --- | --- |
@@ -3403,7 +3301,7 @@ Allows the creature to detect blood over great distances, either carried by wind
 
 #### Breathe Flame
 
-The creature breathes flame over an area as a Combat Action. The flame covers a cone in front of the creature, which stretches for its CON in metres. At the furthest extent, the width of the cone is one quarter of the creature's CON. Any creature caught in the flame suffers fire-based damage to all hit locations, though a character can attempt to Evade to halve this damage. ArmourArmor Points count as normal unless otherwise noted.
+The creature breathes flame over an area as a Combat Action. The flame covers a cone in front of the creature, which stretches for its CON in metres. At the furthest extent, the width of the cone is one quarter of the creature's CON. Any creature caught in the flame suffers fire-based damage to all hit locations, though a character can attempt to Evade to halve this damage. Armor Points count as normal unless otherwise noted.
 
 A creature can only breathe flame once in a specified time period (usually once per hour or once per day). Further attempts to breathe flame within this time require the creature to pass Endurance rolls with each roll becoming one grade harder, orharder or suffer a level of Fatigue.
 
@@ -3542,5 +3440,3 @@ The creature has a venomous bite, stingsting, or other means of attack.
 #### Wing Buffet
 
 The creature is so large it can damage opponents by beating its wings. This requires an Attack Action and does damage equal to its damage bonus to those within 3 metres of the front or side of the creature.
-
-59
