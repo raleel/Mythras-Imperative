@@ -2708,25 +2708,25 @@ Befuddle causes confusion within the mind of a corporeal target. The subject of 
 
 _**Touch**_
 
-Bladesharp is cast on edged and piercing melee weapons. It increases the damage of a weapon by one dice step and incidentally leaves the edge honed after the spell concludes. This spell is often used on tools such as logging axes, ploughsploughs, and razors. Thus, casting this spell on a dagger increases it to 1d6+1 damage, whereas the same spell on a great axe would increase it to 2d8+2 damage. (1d4/→1d6→/1d8→/1d10→/2d6→/2d8→/2d10).
+Bladesharp is cast on edged and piercing melee weapons. It increases the damage of a weapon by one dice step and incidentally leaves the edge honed after the spell concludes. This spell is often used on tools such as logging axes, ploughsploughs, and razors. Thus, casting this spell on a dagger increases it to 1d6+1 damage, whereas the same spell on a great axe would increase it to 2d8+2 damage. (1d4→1d6→1d8→1d10→2d6→2d8→2d10).
 
 ### Bludgeon
 
 Touch
 
-Bludgeon is similar tolike Bladesharp but used on weapons and tools that deal blunt-force trauma rather than cutting or piercing damage. It is normally used to aid with threshing grain, fulling wool, or similar heavy dutyheavy-duty work.
+Bludgeon is similar tolike Bladesharp but used on weapons and tools that deal blunt-force trauma rather than cutting or piercing damage. It is normally used to aid with threshing grain, fulling wool, or similar heavy-duty work.
 
 ### Breath
 
 Touch
 
-Breath permits the recipient to hold their breath for an extended period, so that they can temporarily venture into harmful environments, such as underwater; or atmospheres tainted by rock dust, gases, smokesmoke, or poisons. The spell lasts for a maximum of half the caster's POW in minutes, during which time the recipient cannot speakspeak, or the breath is lostlost, and they immediately begin to asphyxiate (or become poisoned).
+Breath permits the recipient to hold their breath for an extended period, so that they can temporarily venture into harmful environments, such as underwater; or atmospheres tainted by rock dust, gases, smoke, or poisons. The spell lasts for a maximum of half the caster's POW in minutes, during which time the recipient cannot speak, or the breath is lost, and they immediately begin to asphyxiate (or become poisoned).
 
 ### Calm
 
 Ranged, Resist (Willpower)
 
-Calm attempts to dampen down the passions or the target, perhaps ensuring that a lovesick paramour doesn't press his suit, a frightened rival doesn't scream for help or that weapons are not drawn in anger. A calmed person is not otherwise mentally affected,affected; Thus, any sort of assault or threatening action still permits the target to defend themselves and even attack, albeit they will do so in a calm and level headedlevel-headed manner.
+Calm attempts to dampen down the passions or the target, perhaps ensuring that a lovesick paramour doesn't press his suit, a frightened rival doesn't scream for help or that weapons are not drawn in anger. A calmed person is not otherwise mentally affected; Thus, any sort of assault or threatening action still permits the target to defend themselves and even attack, albeit they will do so in a calm and level-headed manner.
 
 ### Chill
 
@@ -2780,7 +2780,7 @@ Firearrow causes all missiles thrown or fired by the recipient to burst into fla
 
 Touch
 
-Fireblade is similar tolike Firearrow but is instead cast on hand tools and melee weapons. The original purpose of the spell is to sterilise surgical equipment, aid in slash and burn agriculture or provide illumination during darkness without the need to carry an additional light source. If cast on a weapon it inflicts an additional 1d3 damage, anddamage and has the chance of setting flammable materials alight if held to them for several rounds (see Fire in the Game System Section). Wooden hafted weapons under the effects of Fireblade will be consumed as part of the spell.
+Fireblade is similar tolike Firearrow but is instead cast on hand tools and melee weapons. The original purpose of the spell is to sterilise surgical equipment, aid in slash and burn agriculture or provide illumination during darkness without the need to carry an additional light source. If cast on a weapon it inflicts an additional 1d3 damage, and damage and has the chance of setting flammable materials alight if held to them for several rounds (see Fire in the Game System Section). Wooden hafted weapons under the effects of Fireblade will be consumed as part of the spell.
 
 ### Glue
 
@@ -2854,7 +2854,14 @@ A character may also take up to two Limits from the list below, with one providi
 
 ### Animation
 
-Animate 2 cubic metres of non-living materials within POW in metres to create a construct, usually in a humanoid form. The cost in Power Points is equal to the armor value of the highest value material used, which is also the base armor value of the construct. Constructs have a base STR of 2d6+16 (23), SIZ of 1d6+12 (15), and a DEX of 1d6+8 (11), with Hit Points determined as normal. The character must use actions to direct the construct and it uses the character's skills for any rolls. If the construct takes a Serious Wound to the chest or abdomen, make an opposed Endurance check against the attack roll. If unsuccessful the construct immediately collapses. Example Armor Values/ Power Point Cost: Plastic or Soft Wood: 2, Concrete or Hard Wood: 4, Soft Metal or Stone: 6, Hard Metal: 8
+Animate 2 cubic metres of non-living materials within POW in metres to create a construct, usually in a humanoid form. The cost in Power Points is equal to the armor value of the highest value material used, which is also the base armor value of the construct. Constructs have a base STR of 2d6+16 (23), SIZ of 1d6+12 (15), and a DEX of 1d6+8 (11), with Hit Points determined as normal. The character must use actions to direct the construct and it uses the character's skills for any rolls. If the construct takes a Serious Wound to the chest or abdomen, make an opposed Endurance check against the attack roll. If unsuccessful the construct immediately collapses. Example Armor Values/ Power Point Cost: 
+
+| Armor Values | Power Point Cost |
+| --- | --- |
+| Plastic or Soft Wood | 2 |
+| Concrete or Hard Wood | 4 |
+| Soft Metal or Stone | 6 |
+| Hard Metal | 8 |
 
 _**Boost**_: Spend 2 Power Points to instantly move the construct to another source of the same material within POW in metres.
 
@@ -2996,7 +3003,10 @@ This section contains a small sample of creatures and various Creature Abilities
 
 Use these Sample Creatures as the inspiration for your own creations, adapting the templates as needed for the scenario, level of challenge desired, and so on. The creatures represent typical examples of their species: greater and lesser forms will exist, with higher and lower skills, Combat capabilities, and Hit Points. Note that most of these creatures have certain Abilities. These are fully described on pages XX to XX.
 
+The [Mythras Encounter Generator](https://mythras.skoll.xyz/), AKA MEG, is a wonderful monster repository with thousands of monsters and encounters available to generate. Links to the relevant entries are provided.
+
 ### Giant Ant
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/244/)
 
 SIZ: 14, Action Points: 2, Damage Modifier: +1d2, Magic Points: 4, Initiative Bonus: +11, Move: 12m12m.
 
@@ -3024,7 +3034,8 @@ Sting (Size: M, Damage 1d4+1d2)
 | _15_ | Left Front Leg | 4/6 |
 | _16-20_ | Head | 4/7 |
 
-### Bear
+### Bear (Grizzly)
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/276/)
 
 SIZ: 34, Action Points: 3, Damage Modifier: +1d12, Magic Points: 7, Initiative Bonus: +13, Move: 8m8m.
 
@@ -3115,6 +3126,7 @@ Trample (Size: C, Damage 4d8)
 | _19-20_ | Head | 8/17 |
 
 ### Goblin/Orc
+[MEG entry] (https://mythras.skoll.xyz/enemy_template/10891/)
 
 SIZ: 11, Action Points: 2, Damage Modifier: 0, Magic Points: 11, Initiative Bonus: +11, Move: 6m6m.
 
@@ -3221,6 +3233,7 @@ Bite (Size: E, Damage 1d10+2d6
 | _17-20_ | Head | 2/12 |
 
 ### Skeleton
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/7925/)
 
 Animated skeletons are susceptible to weapons delivering blunt-force trauma, which smashes the bone (or chitin), and disrupts the joints. Such weapons increase their damage dice by one step when used against skeletons (for example a club with 1d6 damage would become 1d8). On the other handhand, skeletons are resistant to slashing and thrusting weapons. Reduce the damage dice of slashing weapons by one step, andstep and thrusting weapons by two steps.
 
