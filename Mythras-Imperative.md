@@ -3156,6 +3156,7 @@ Shield (Size: L, Damage 1d4, Protects 3 locations for Passive Blocking/Warding)
 | _19-20_ | Head | 1/5 |
 
 ### Horse
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/9997/)
 
 SIZ: 31, Action Points: 2, Damage Modifier: +1d12, Magic Points: 7, Initiative Bonus: +11, Move: 12m12m.
 
@@ -3180,6 +3181,7 @@ Hoof (Size: H, Damage 1d6+1d12)
 | _17-20_ | Head | 1/9 |
 
 ### Minotaur
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/11814/)
 
 SIZ: 22, Action Points: 2, Damage Modifier: +1d6, Magic Points: 11, Initiative Bonus: +12, Move: 8m8m.
 
@@ -3210,6 +3212,7 @@ Gore (Size L, Damage 1d8+1d6)
 | _17-20_ | Head | 3/7 |
 
 ### Shark
+[MEG Entry](https://mythras.skoll.xyz/enemy_template/11815/)
 
 SIZ: 42, Action Points: 3, Damage Modifier: +2d6, Magic Points: 7, Initiative Bonus: +13, Move: 12m (swim)
 
