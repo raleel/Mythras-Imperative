@@ -1,4 +1,4 @@
-Mythras Imperative System Resource Document: v091.12.23-RALEEL
+# Mythras Imperative System Resource Document
 
 # Introduction
 
