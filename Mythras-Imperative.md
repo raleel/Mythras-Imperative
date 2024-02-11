@@ -31,7 +31,7 @@ _Mythras_, The Design Mechanism Copyright 2016, Written by Pete NashNash, and La
 
 If you use our Licensed Material in your own published works, please credit us as follows:
 
-_Based on Mythras Imperative, Written by Pete Nash and Lawrence Whitaker, and published by The Design Mechanism, Copyright 2023_
+_Based on _Mythras Imperative_, Written by Pete Nash and Lawrence Whitaker, and published by The Design Mechanism, Copyright 2023_
 
 ## Reserved Material
 
@@ -63,7 +63,7 @@ On some occasions you will be required to divide numbers – typically the ratin
 
 ## Dice Used
 
-Mythras Imperative uses the standard polyhedral dice set: d4, d6, d8, d10 d12, d20 and d100. Additionally, the following dice are called for:
+_Mythras Imperative_ uses the standard polyhedral dice set: d4, d6, d8, d10 d12, d20 and d100. Additionally, the following dice are called for:
 
 d2: Roll any die. An odds number equals 1 and evens equals 2. Or flip a coin.
 
@@ -73,11 +73,11 @@ d3: Roll a six-sided die; 1-2 = 1, 3-4 = 2, 5-6 = 3
 
 Every player in _Mythras Imperative_ controls a character. A character is the player's alter-ego, and is usually very different, physically, and mentally, to the player. Characters can be from a variety of races, according to the setting for the game; a historical setting would feature just humans, whereas a fantasy setting could involve dwarves, elves and even lizardmen. The basic character is defined by a series of different elements that describe the character's capabilities. These elements are:
 
-• Characteristics: such as Strength or Charisma
+- Characteristics: such as Strength or Charisma
 
-• Attributes: things like Height or Movement
+- Attributes: things like Height or Movement
 
-• Skills: expertise in fundamental abilities
+- Skills: expertise in fundamental abilities
 
 Most of these elements are described in terms of numbers, and some are dependent on or calculated by others. What each element means, and how they are determined, is described in the following sections.
 
@@ -89,13 +89,13 @@ A good place to start is to have some idea of what sort of character you want to
 
 Everyone is defined by seven Characteristics which tell you something about your character; how strong or fast they are; how clever or healthy. Characteristics are at the core of every _Mythras Imperative_ character and form the basis for most of the other elements such as Attributes and Skills. The seven Characteristics are:
 
-- • Strength (STR)
-- • Constitution (CON)
-- • Size (SIZ)
-- • Dexterity (DEX)
-- • Intelligence (INT)
-- • Power (POW)
-- • Charisma (CHA)
+- Strength (STR)
+- Constitution (CON)
+- Size (SIZ)
+- Dexterity (DEX)
+- Intelligence (INT)
+- Power (POW)
+- Charisma (CHA)
 
 Before calculating the Characteristics, the following section explains what each represents.
 
@@ -383,7 +383,7 @@ Specific Professional skills, like Pilot, are unlikely to be found in a fantasy 
 
 ## Step 7: Bonus Skill Points
 
-As a final step, a last pool of 150 skill points areis assigned to round out the character. These may be applied to any Standard skillskill, or those Professional skills gained as part of Culture or Career. Once againagain, a Games Master may apply a cap to how many skill points can be applied to any particular skill.
+As a final step, a last pool of 150 skill points areis assigned to round out the character. These may be applied to any Standard skill, or those Professional skills gained as part of Culture or Career. Once again, a Games Master may apply a cap to how many skill points can be applied to any particular skill.
 
 ### Creating Experienced Characters
 
@@ -394,7 +394,7 @@ A table is provided, breaking experience into Age Categories. A character's expe
 **Experience Table**
 
 | **Category** | **Age** | **Bonus Skill Points** | **Maximum Skill Increase** |
-| --- | --- | --- | --- |
+| :-- | :-: | :-: | :-: |
 | Young | 10+1d6 | 100 | +10 |
 | Adult | 15+2d6 | 150 | +15 |
 | Middle Aged | 25+3d6 | 200 | +20 |
@@ -403,17 +403,16 @@ A table is provided, breaking experience into Age Categories. A character's expe
 
 #### Experience Table Notes
 
-• Bonus Skill Points determine how many points the character must spend on developing skills.
-
-• Maximum Skill Increase limits how many of the Bonus Points can be applied to any one Skill.
+- Bonus Skill Points determine how many points the character must spend on developing skills.
+- Maximum Skill Increase limits how many of the Bonus Points can be applied to any one Skill.
 
 ### The Skill Pyramid
 
-Mythras Imperative's skill point allocation process derives 350 points from three sources: Culture (100), Career (100) and Bonus Skill Points (150). Allocating these points can be time consuming, and there are no doubt times where determining a character's Culture isn't so important, or the player has a particular Occupation in mind that isn't readily served by the templates in the core rules. An alternative system for apportioning skill points, for when time is pressing or when players are eager, is presented here.
+_Mythras Imperative_'s skill point allocation process derives 350 points from three sources: Culture (100), Career (100) and Bonus Skill Points (150). Allocating these points can be time consuming, and there are no doubt times where determining a character's Culture isn't so important, or the player has a particular Occupation in mind that isn't readily served by the templates in the core rules. An alternative system for apportioning skill points, for when time is pressing or when players are eager, is presented here.
 
 Instead of allocating points from the Cultural, Career and Bonus Skill Points pools, the Skills Pyramid is used instead. This divides 350 points into five blocks of fixed points, as follows:
 
-1 skill at 50% 2 skills at 40% 3 skills at 30% 4 skills at 20% 5 skills at 10%
+1 skill at 50%, 2 skills at 40%, 3 skills at 30%, 4 skills at 20%, 5 skills at 10%.
 
 Which forms a handy pyramid. Simply cross off each value as it is allocated.
 
@@ -433,9 +432,9 @@ Which forms a handy pyramid. Simply cross off each value as it is allocated.
 
 - All points from the pyramid must be allocated.
 - No skill can have more than one allocation from the pyramid.
-- Customs and Native Language both gain +40, as per the core rules, and in addition to any allocations made from the pyramidpyramid.
+- Customs and Native Language both gain +40, as per the core rules, and in addition to any allocations made from the pyramid.
 - Passions which gain the values noted in the Passions section, and in addition to any allocations made from the pyramid.
-- No skill can exceed 80% from the result of an allocation.Soallocation. So, if a character has STR 16 and DEX 17, for a base of 33%, the player cannot allocate the 50 point50-point value to a Combat Style.
+- No skill can exceed 80% from the result of an allocation. So, if a character has STR 16 and DEX 17, for a base of 33%, the player cannot allocate the 50 point value to a Combat Style.
 - Six of the values must be allocated to Professional Skills.
 - Characters may still choose a Culture and Occupation, and use the skills listed in the appropriate description as a guide for their allocations, or the allocations can be completely freestyle.
 - It is recommended that at least one of the values be allocated to a Combat Style, but this isn't mandatory.
@@ -443,7 +442,7 @@ Which forms a handy pyramid. Simply cross off each value as it is allocated.
 
 ### Larger-Than-Life Heroics
 
-Mythras Imperative deals primarily with normal human beings, but occasionally a campaign requires something else, especially if it demands special heroics, or takes place in a Pulp Action setting, where heroes and villains tend to be larger than life.
+_Mythras Imperative_ deals primarily with normal human beings, but occasionally a campaign requires something else, especially if it demands special heroics, or takes place in a Pulp Action setting, where heroes and villains tend to be larger than life.
 
 Such heroes may not necessarily have superpowers per se (although if these are desired, the Magic and Powers chapter can be used), but they are a bit stronger, a bit faster, a bit more resilient and usually a lot more strong-willed. Think of a certain barbarian from Cimmeria; a special agent who is licensed to kill; a man of bronze; a caped vigilante who is also a billionaire playboy – or any number of popular heroic characters. They frequently face situations where a normal human would crumble; but as heroes, they can withstand whatever the plot throws at them, and live to engage in the next adventure (relatively) unscathed.
 
@@ -461,17 +460,17 @@ When generating Pulp Heroic characters, use the Dice Roll Assign method in the C
 
 These are calculated as per normal, except that Pulp Heroic characters gain two Advantages chosen from the following (note that advantages cannot be stacked):
 
-• +1 Action Point
+- +1 Action Point
 
-• +1 Luck Point
+- +1 Luck Point
 
-• +1 Hit Point to each Hit Location
+- +1 Hit Point to each Hit Location
 
-• Endurance rolls are one Grade easier
+- Endurance rolls are one Grade easier
 
-• Stealth rolls are one Grade Easier
+- Stealth rolls are one Grade Easier
 
-• Willpower rolls are one Grade easier
+- Willpower rolls are one Grade easier
 
 All Pulp Heroic characters double their Healing Rate when suffering from Minor or Serious Wounds, although Major Wounds are handled at the character's standard Healing Rate.
 
@@ -493,23 +492,23 @@ When generating characters using the Dice Roll Assign method in the Characters s
 
 These are calculated as per normal, except that Paragon Characters gain three Advantages chosen from the following (note that advantages cannot be stacked):
 
-• +1 Action Point
+- +1 Action Point
 
-• +2 Luck Points
+- +2 Luck Points
 
-• +2 Hit Points to each Hit Location
+- +2 Hit Points to each Hit Location
 
-• Endurance rolls are one Grade easier
+- Endurance rolls are one Grade easier
 
-• Stealth rolls are one Grade Easier
+- Stealth rolls are one Grade Easier
 
-• Willpower rolls are one Grade easier
+- Willpower rolls are one Grade easier
 
 All Paragon characters double their Healing Rate when suffering from Minor or Serious Wounds, although Major Wounds are handled at the character's standard Healing Rate.
 
 #### Skills
 
-Heroic characters gain an additional 100 Bonus Skill Points to allocate as needed.
+Paragon Heroic characters gain an additional 100 Bonus Skill Points to allocate as needed.
 
 ## Step 8: Passions
 
@@ -519,12 +518,12 @@ A Passion can be for anything – a person, an organisation, an ideal, even an o
 
 Passions are measured in the same way as skills; they are rated between 1 and 100 (or higher). A Passion can be improved in the same way as a skill, or it can be increased or decreased by the referee depending on circumstances.
 
-Beginning characters may start with up to three Passions, each based on two Characteristics, with a bonus of +40 to the first, +30 to the second and +20 to the third – the player deciding the order of importance. These can be tied to his culture, professionprofession, or personal foibles. For example, in a Sword & Sorcery campaign the character might take: Hate (Stygians), Distrust (Sorcerers), and Desire (Alcohol); whereas in a Dystopian Sci-Fi game the character might choose Loyalty (President), Destroy (Aliens)), and Uphold (the Law) instead.
+Beginning characters may start with up to three Passions, each based on two Characteristics, with a bonus of +40 to the first, +30 to the second and +20 to the third – the player deciding the order of importance. These can be tied to his culture, professionprofession, or personal foibles. For example, in a Sword & Sorcery campaign the character might take: Hate (Stygians), Distrust (Sorcerers), and Desire (Alcohol); whereas in a Dystopian Sci-Fi game the character might choose Loyalty (President), Destroy (Aliens), and Uphold (the Law) instead.
 
 **Passion Table**
 
 | **Object of Passion** | **Starting Percentage** |
-| --- | --- |
+| :-- | --- |
 | A person, in a romantic or familial context | POW+CHA |
 | An organization or group of people | POW+INT |
 | A race or species | Character's POW x2 |
@@ -538,15 +537,15 @@ A Passion is any deeply held commitment that has the capacity to influence event
 
 In summary, Passions can be used thus:
 
-• To augment another skill, reflecting the depth of one's feelings and how it drives action. When used in this regard, the Passion adds 20% of its value to a skill being used, as long asif the augmentation is thematically and dramatically important.
+- To augment another skill, reflecting the depth of one's feelings and how it drives action. When used in this regard, the Passion adds 20% of its value to a skill being used, as long as the augmentation is thematically and dramatically important.
 
-• As an Ability in its own right toto drive choices, desires and emotional actions and responses. When used in this way a Standard roll is made against a Passion to determine how strongly the character thinks and feels about something. If a roll is a Success, then the character acts in line with what the Passion would dictate. If the roll Fails, then the character can act freely without feeling constrained by the Passion's drives.
+- As an Ability in its own right to drive choices, desires and emotional actions and responses. When used in this way a Standard roll is made against a Passion to determine how strongly the character thinks and feels about something. If a roll is a Success, then the character acts in line with what the Passion would dictate. If the roll Fails, then the character can act freely without feeling constrained by the Passion's drives.
 
-• To oppose other Passions – even those held by the same character. This is typically used where two Passions would conflict. For instance, a personal love might dictate a course of action that would be contrary to an Oath or loyalty. Here use an Opposed Roll between the two Passions, with the more successful determining how the character acts.
+- To oppose other Passions – even those held by the same character. This is typically used where two Passions would conflict. For instance, a personal love might dictate a course of action that would be contrary to an Oath or Loyalty. Here use an Opposed Roll between the two Passions, with the more successful determining how the character acts.
 
-• As a general measure of depth of commitment, belief, and loyalty to a cause. The higher the Passion's value, the more committed the character is. Characters with similar Passions can compare their ratings to determine who exhibits the deeper commitment.
+- As a general measure of depth of commitment, belief, and loyalty to a cause. The higher the Passion's value, the more committed the character is. Characters with similar Passions can compare their ratings to determine who exhibits the deeper commitment.
 
-• To resist some form of psychological manipulation or magical domination. In certain cases where a character is being forced into performing an act contrary to their Passions, they may substitute either for Willpower in the Opposed Roll.
+- To resist some form of psychological manipulation or magical domination. In certain cases where a character is being forced into performing an act contrary to their Passions, they may substitute either for Willpower in the Opposed Roll.
 
 New Passions can be developed at any point during a game session if the circumstances warrant it. One might instantly develop 'Hate X' where someone else does something that would strongly invoke hatred to arise. A lord or chief calling for an Oath would immediately establish a Passion of 'Loyalty to X' as soon as that Oath is taken or sworn.
 
@@ -570,19 +569,17 @@ The Deepening and Waning table shows by how much the Passion changes.
 
 ## Step 9: Equipment
 
-Now that the character is almost finished, he or she needs some gear. This can include weapons, armor, or other important paraphernalia used for a particular profession. In the course ofDuring adventure there are many chances to get more equipment, but each starting character has in his or her immediate possession the following:
+Now that the character is almost finished, he or she needs some gear. This can include weapons, armor, or other important paraphernalia used for a particular profession. In the course of adventures there are many chances to get more equipment, but each starting character has in his or her immediate possession the following:
 
-• A set of clothing appropriate to the character's profession and the setting.
+- A set of clothing appropriate to the character's profession and the setting.
 
-• An amount of pocket money; enough to last a little while without hardship.
+- An amount of pocket money; enough to last a little while without hardship.- A personal heirloom, keepsake, or some trinket of little relative value.
 
-• A personal heirloom, keepsake, or some trinket of little relative value.
+- Any trade tools or transportable equipment suitable to the character's profession, if appropriate.
 
-• Any trade tools or transportable equipment suitable to the character's profession, if appropriate.
+- Any personal weapon for the character's Combat Style.
 
-• Any personal weapon for the character's Combat Style.
-
-• Other items as appropriate for the setting, and subject to the GM's approval.
+- Other items as appropriate for the setting, and subject to the GM's approval.
 
 # Skills
 
@@ -594,15 +591,15 @@ A skill has a Base Value built on two Characteristics; or one Characteristic mul
 
 Whenever a character is called upon to resolve some form of test, challenge, or professional ability, 1d100 is rolled and compared with the skill's value:
 
-• Equal to, or less than, the skill indicates a Success
+- Equal to, or less than, the skill indicates a Success
 
-• Greater than the skill's value indicates a Failure
+- Greater than the skill's value indicates a Failure
 
 There are certain special cases concerning Success and Failure that should be noted.
 
-• Any roll of 01-05 is always a Success
+- Any roll of 01-05 is always a Success
 
-• Any roll of 96-00 is always a Failure, irrespective of how high the skill's value
+- Any roll of 96-00 is always a Failure, irrespective of how high the skill's value
 
 ### Criticals and Fumbles
 
@@ -619,14 +616,14 @@ There will be some occasions where a roll against a particular skill is just not
 
 ### Modifying Skills
 
-There are some occasions where a skill roll is required, but the chances of success need to be adjusted to reflect existing conditions. Fleeing bandits, for instance, might require an Athletics roll. But what if the character is fleeing through darkness or through treacherous undergrowth? In such a case the Games Master can insist on modifying the skill of the character to reflect the circumstances.
+There are some occasions where a skill roll is required, but the chances of success need to be adjusted to reflect existing conditions. Fleeing from bandits, for instance, might require an Athletics roll. But what if the character is fleeing through darkness or through treacherous undergrowth? In such a case the Games Master can insist on modifying the skill of the character to reflect the circumstances.
 
-Mythras Imperative uses a series of grades to determine how a skill is modified. These are as follows. Note that two types of modifiers are provided: the first is the default method, and involves a little math, but offers better simulation for scaling, especially where higher skill percentages are concerned. The Simplified Skill Modifier is a simple addition or subtraction, and easier to implement. Choose which method best fits the game but ensure that the same modification system is applied consistently.
+_Mythras Imperative_ uses a series of grades to determine how a skill is modified. These are as follows. Note that two types of modifiers are provided: the first is the default method, and involves a little math, but offers better simulation for scaling, especially where higher skill percentages are concerned. The Simplified Skill Modifier is a simple addition or subtraction, and easier to implement. Choose which method best fits the game but ensure that the same modification system is applied consistently.
 
 **Difficulty Grade Table**
 
 | Difficulty Grade | Skill Modifier | Simplified Skill Modifier |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Automatic | No need to roll | No need to roll |
 | Very Easy | Double the skill value | +40% |
 | Easy | Add half again to the skill value | +20% |
@@ -638,7 +635,7 @@ Mythras Imperative uses a series of grades to determine how a skill is modified.
 
 Where a character is already suffering a penalty from other circumstances, the hardest Difficulty Grade takes precedence.
 
-Outside of combat, _Mythras Imperative_ does not provide a definitive list of situations and challenges which can incur skill modifications. What sort of modification is required for any particular skill or context is ultimately up to the Games Master to decide;decide, according to the capabilities of the characters, his perception of the difficulty of the situation and the dramatic tension at that particular moment.
+Outside of combat, _Mythras Imperative_ does not provide a definitive list of situations and challenges which can incur skill modifications. What sort of modification is required for any particular skill or context is ultimately up to the Games Master to decide; according to the capabilities of the characters, his perception of the difficulty of the situation and the dramatic tension at that particular moment.
 
 ## Standard Skills
 
