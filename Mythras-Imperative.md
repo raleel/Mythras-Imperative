@@ -68,7 +68,7 @@ d3: Roll a six-sided die; 1-2 = 1, 3-4 = 2, 5-6 = 3
 
 # Characters
 
-Every player in _Mythras Imperative_ controls a character. A character is the player's alter-ego, and is usually very different, physicallyphysically, and mentally, to the player. Characters can be from a variety of races, according to the setting for the game; a historical setting would feature just humans, whereas a fantasy setting could involve dwarves, elves and even lizardmen. The basic character is defined by a series of different elements that describe the character's capabilities. These elements are:
+Every player in _Mythras Imperative_ controls a character. A character is the player's alter-ego, and is usually very different, physically, and mentally, to the player. Characters can be from a variety of races, according to the setting for the game; a historical setting would feature just humans, whereas a fantasy setting could involve dwarves, elves and even lizardmen. The basic character is defined by a series of different elements that describe the character's capabilities. These elements are:
 
 • Characteristics: such as Strength or Charisma
 
@@ -98,31 +98,31 @@ Before calculating the Characteristics, the following section explains what each
 
 ### Strength (STR)
 
-STR represents physical strength: how much one can lift, how hard one can hit, and so on. STR is a component of the Damage Modifier .Modifier. If a character is reduced to zero STR they lack the ability to move or lift objects.
+STR represents physical strength: how much one can lift, how hard one can hit, and so on. STR is a component of the Damage Modifier. If a character is reduced to zero STR they lack the ability to move or lift objects.
 
 ### Constitution (CON)
 
-CON is measure of health and hardiness. CON is a component in determining Hit Points and Healing Rate .Rate. If CON falls to zero for any reason the character dies.
+CON is measure of health and hardiness. CON is a component in determining Hit Points and Healing Rate. If CON falls to zero for any reason the character dies.
 
 ### Size (SIZ)
 
-SIZ measures mass, andmass and helps indicate Height and Weight. SIZ is used to help figure Hit Points ,Points, as larger, heavier creatures tend to have greater endurance against damage. SIZ can also be used to determine a character's Damage Modifier, since mass helps to increase the force of a blow.
+SIZ measures mass, and helps indicate Height and Weight. SIZ is used to help figure Hit Points, as larger, heavier creatures tend to have greater endurance against damage. SIZ can also be used to determine a character's Damage Modifier, since mass helps to increase the force of a blow.
 
 ### Dexterity (DEX)
 
-Agility, balance, and reflexes are measured by DEX. It is an important aspect of Action Points and Initiative .Initiative. If a character is reduced to zero DEXDEX, they suffer functional paralysis.
+Agility, balance, and reflexes are measured by DEX. It is an important aspect of Action Points and Initiative. If a character is reduced to zero DEX, they suffer functional paralysis.
 
 ### Intelligence (INT)
 
-INT is measurement of cognitive ability. Those with a lower INT score are not necessarily stupid, but they are likely to be constrained in how creatively they can employ their wits. INT is a factor in calculating Action Points and Initiative. If INT is reduced to zerozero, the character becomes completely mindless.
+INT is measurement of cognitive ability. Those with a lower INT score are not necessarily stupid, but they are likely to be constrained in how creatively they can employ their wits. INT is a factor in calculating Action Points and Initiative. If INT is reduced to zero, the character becomes completely mindless.
 
 ### Power (POW)
 
-POW is a measurement of a character's soul, spirit, inner drive, or capacity for magic. POW governs a character's Magic Points and Luck Points .Points. If a character's POW ever drops to zero, they lose all independent will.
+POW is a measurement of a character's soul, spirit, inner drive, or capacity for magic. POW governs a character's Magic Points and Luck Points. If a character's POW ever drops to zero, they lose all independent will.
 
 ### Charisma (CHA)
 
-Charisma is a measure of presence and personality, andpersonality and is independent of physical appearance. CHA affects a character's Experience Modifier .Modifier. If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
+Charisma is a measure of presence and personality, andpersonality and is independent of physical appearance. CHA affects a character's Experience Modifier. If CHA ever falls to zero, the character can no longer socially interact with others, becoming so painfully shy or antisocial they are ignored or even driven away.
 
 ## Calculating Characteristics
 
