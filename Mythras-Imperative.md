@@ -642,7 +642,7 @@ Athletics covers a range of physical activities, including climbing, jumping, th
 
 ### Boating (STR+CON)
 
-The Boating skill covers the operation of small floating craft. on rivers, lakes, and close inshore. Appropriate vessels are generally boats, canoes, or rafts which travel short distances and are unsuited to the rigours of the open sea. Most are propelled using oars, paddles, puntspunts, or simple sails; or can even be towed by animals. Ships with large crews or designed for long, overseas journeys are covered under the Seamanship Professional Skill.
+The Boating skill covers the operation of small floating craft on rivers, lakes, and close inshore. Appropriate vessels are generally boats, canoes, or rafts which travel short distances and are unsuited to the rigours of the open sea. Most are propelled using oars, paddles, punts, or simple sails; or can even be towed by animals. Ships with large crews or designed for long, overseas journeys are covered under the Seamanship Professional Skill.
 
 ### Brawn (STR+SIZ)
 
@@ -654,9 +654,9 @@ Each Combat Style is the skill to use the weapons expected of a career or cultur
 
 ### Conceal (DEX+POW)
 
-Conceal is the counterpoint to Stealth, being the concealment of large objects rather than the character themselves. For instance, conceal could be used to hide a chariot behind some rocks, or sweep away the wheel ruts it left so its path cannot be tracked. The skill is versatile in application, anything from hiding a scroll in a library to disguising the presence of a trap or secret passage.
+Conceal is the counterpoint to Stealth, being the concealment of large objects rather than the character themselves. For instance, Conceal could be used to hide a chariot behind some rocks, or sweep away the wheel ruts it left so its path cannot be tracked. The skill is versatile in application, anything from hiding a scroll in a library to disguising the presence of a trap or secret passage.
 
-### Customs (INT x2+40)
+### Customs (INT x2 +40)
 
 Customs represents the character's knowledge of his own community: its social codes, rites, rituals, taboos, and so on. The skill is used when it is essential to accurately interpret or perform any socially important custom or to behave in a particular way.
 
@@ -690,7 +690,7 @@ This is a measurement of a character's ability to persuade others, through perso
 
 ### Insight (INT+POW)
 
-Insight is the ability to read or intuitively define another's verbal and non-verbal behaviour (such as body language or the manner of speech) to establish their motives and state of mind. Insight is used to determine whether someone is telling a lie (and it can be opposed by the other person's Deceit skill), or to predict how someone feels about a particular situation. Insight can equally be applied to particular situations as well as other people: is that tavern a haven for trouble? Could the bandits be planning an ambush in the nearby hills?
+Insight is the ability to read or intuitively define another's verbal and non-verbal behaviour (such as body language or the manner of speech) to establish their motives and state of mind. Insight is used to determine whether someone is telling a lie (and it can be opposed by the other person's Deceit skill), or to predict how someone feels about a particular situation. Insight can equally be applied to particular situations as well as other people: Is that tavern a haven for trouble? Could the bandits be planning an ambush in the nearby hills?
 
 ### Locale (INT x2)
 
@@ -708,7 +708,7 @@ Perception is used for both passive observation and focused detection; whether h
 
 ### Ride (DEX+POW)
 
-Ride covers the ability to control and remain mounted on those creatures that are trained to be ridden. The skill can be applied to a diverse range of beasts, everything from mules to elephants; even flying or swimming creatures such as giant eagles or dolphins. Riding an unfamiliar species is always one Difficulty Grade harder; while riding a species of a different medium (a horsemana rider riding a dragon, for example) is two grades harder. Wild, untamed creatures cannot be ridden in a constructive manner until they have been broken and trained to be riding beasts.
+Ride covers the ability to control and remain mounted on those creatures that are trained to be ridden. The skill can be applied to a diverse range of beasts, everything from mules to elephants; even flying or swimming creatures such as giant eagles or dolphins. Riding an unfamiliar species is always one Difficulty Grade harder; while riding a species of a different medium (a horse rider riding a dragon, for example) is two grades harder. Wild, untamed creatures cannot be ridden in a constructive manner until they have been broken and trained to be riding beasts.
 
 ### Sing (POW+CHA)
 
@@ -716,7 +716,7 @@ Carrying a tune is covered by Sing, anything from monotonous chants through to c
 
 ### Stealth (DEX+INT)
 
-Hiding out of plain sight, orsight or moving with minimal sound are covered by the Stealth skill. Cover and conditions, such as darkness or loud background noise, improve the grade of the skill according to the specifics of the environment. Similarly, adverse conditions, such as a lack of cover or a quiet night will decrease the skill's grade. Circumstances also affect the difficulty of the attempt. For instance, a warrior wearing heavy armor can easily conceal themselves behind a wall, provided they stand still or move very slowly, whereas moving quickly might cause their armor to jingle.
+Hiding out of plain sight, or moving with minimal sound are covered by the Stealth skill. Cover and conditions, such as darkness or loud background noise, improve the grade of the skill according to the specifics of the environment. Similarly, adverse conditions, such as a lack of cover or a quiet night will decrease the skill's grade. Circumstances also affect the difficulty of the attempt. For instance, a warrior wearing heavy armor can easily conceal themselves behind a wall, provided they stand still or move very slowly, whereas moving quickly might cause their armor to jingle.
 
 ### Swim (STR+CON)
 
@@ -848,7 +848,7 @@ Whether using prominent landmarks, the stars, or the varying taste of seawater, 
 
 ### Oratory (POW+CHA)
 
-Oratory is the art of delivering a speech to a large group of people with the aim of conveying or swaying a point of view. It is a skill frequently used by politicians to drive home a policy, butpolicy but is also used by commanders to inspire troops and impose discipline on the battlefield. Wherever mass persuasion is needed, Oratory, rather than Influence, is used.
+Oratory is the art of delivering a speech to a large group of people with the aim of conveying or swaying a point of view. It is a skill frequently used by politicians to drive home a policy, but is also used by commanders to inspire troops and impose discipline on the battlefield. Wherever mass persuasion is needed, Oratory, rather than Influence, is used.
 
 ### Pilot (DEX+INT)
 
@@ -876,7 +876,7 @@ Seduction is the romantic or sexual persuasion of another person, a skill very d
 
 ### Sensors (INT+POW)
 
-This skill allows the accurate use and analysis of sensor devices from chemical sniffers up to military long rangelong-range scanners.
+This skill allows the accurate use and analysis of sensor devices from chemical sniffers up to military long range scanners.
 
 ### Sleight (DEX+CHA)
 
