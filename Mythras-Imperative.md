@@ -146,7 +146,7 @@ How often a character can act in a Combat Round is determined by Action Points. 
 
 ### Damage Modifier
 
-Larger and stronger characters and creatures may gain additional damage in certain situations; conversely, weakerweaker, and smaller characters may reduce the damage they can inflict. The Damage ModifierIt is generally used in combat situations but can also be used when attempting to break objects. The Damage Modifier is an extra die roll which is either added to, or subtracted from, the damage inflicted by the weapon or tool. If a negative Damage Modifier takes a weapon's damage to zero or below, then no damage at all has been inflicted.
+Larger and stronger characters and creatures may gain additional damage in certain situations; conversely, weaker, and smaller characters may reduce the damage they can inflict. The Damage Modifier is generally used in combat situations but can also be used when attempting to break objects. The Damage Modifier is an extra die roll which is either added to, or subtracted from, the damage inflicted by the weapon or tool. If a negative Damage Modifier takes a weapon's damage to zero or below, then no damage at all has been inflicted.
 
 Add together STR and SIZ and consult the Damage Modifier table, below.
 
@@ -190,7 +190,7 @@ A character's CHA score may adjust the number of Experience Rolls the character 
 
 ### Healing Rate
 
-After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury , the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
+After receiving injuries, a character needs to recuperate. Healing Rate determines how quickly they naturally recover from wounds. Depending on the severity of the injury, the Healing Rate denotes how many Hit Points are recovered per day, week, or month.
 
 **Healing Rate**
 
@@ -205,15 +205,15 @@ After receiving injuries, a character needs to recuperate. Healing Rate determin
 
 Hit Points represent how much injury an area of the body can withstand before it becomes useless, possibly resulting in incapacitation and ultimately the character's death. The body of every creature is divided into separate locations – humans, for example, have seven: the head, chest, abdomen, arms, and legs – each location with its own Hit Points.
 
-Some creatures, such as monsters or different classes of animal, by their very nature often have radically different body structures, yet each location they possess still has Hit Points. When a location's Hit Points are reduced to a certain level through damage of any kind, then the character suffers certain consequences that reflect the severity of the injury. For further information concerning wounds see page XX.
+Some creatures, such as monsters or different classes of animal, by their very nature often have radically different body structures, yet each location they possess still has Hit Points. When a location's Hit Points are reduced to a certain level through damage of any kind, then the character suffers certain consequences that reflect the severity of the injury. For further information concerning wounds see the Damage and Wound Levels section.
 
-To calculate the Hit Points of each location, add CON and SIZ together and cross-reference the result on the Hit Points table, above.
+To calculate the Hit Points of each location, add CON and SIZ together and cross-reference the result on the table, below.
 
 **Hit Points per Location**
 
-| Location | CON+SIZ |
-| --- | --- |
-| 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
+| Location | CON+SIZ |    |    |    |    |    |    |    |   |
+| --- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|     | 1–5 | 6–10 | 11–15 | 16–20 | 21–25 | 26–30 | 31–35 | 36–40 | +5 |
 | Head | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | +1 |
 | Chest | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | +1 |
 | Abdomen | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | +1 |
@@ -230,16 +230,16 @@ Initiative is the average of the DEX and INT Characteristics.
 
 Luck Points represent that strange force differentiating adventuring heroes from everyday folk. Call it fate, karma, or simple good fortune. Luck Points can be used to:
 
-- • Re-roll the dice, ifdice if they are unfavourableunfavorable.
-- • Mitigate physical damage or other unfortunate circumstancescircumstances.
-- • Gain an edge at a vital moment in combatcombat.
+- Re-roll the dice, ifdice if they are unfavourableunfavorable.
+- Mitigate physical damage or other unfortunate circumstancescircumstances.
+- Gain an edge at a vital moment in combatcombat.
 
 Exactly how they are used, and when, is described in the Game System section. Once a Luck Point is spent, the pool decreases; when one is out of Luck Points, no more are available – unless the Games Master makes an impromptu award – until the next game session when they replenish to their normal value.
 
 **Luck Points**
 
 | POW | Luck Points |
-| --- | --- |
+| :-: | :-: |
 | 6 or less | 1 |
 | 7-12 | 2 |
 | 13-18 | 3 |
@@ -249,7 +249,7 @@ Exactly how they are used, and when, is described in the Game System section. On
 
 Mystical abilities, powers and spells used in _Mythras Imperative_ usually rely on Magic Points. Since the availability of magic may be limited by a campaign setting or to specific magical professions, some characters will find this Attribute superfluous.
 
-For those who can use such powers, a character's Magic Points are equal to their POW. These points are used to cast spells, the cost of which is dependent on the type of magic used. When casters runs out of Magic PointsPoints, they have exhausted their ability to cast any spells until Magic Points are replenished.
+For those who can use such powers, a character's Magic Points are equal to their POW. These points are used to cast spells, the cost of which is dependent on the type of magic used. When a caster runs out of Magic Points, they have exhausted their ability to cast any spells until Magic Points are replenished.
 
 ### Movement Rate
 
@@ -257,14 +257,14 @@ Every creature has a Movement Rate – a number of metres that can be travelled 
 
 ## Step 4: Skills
 
-Skills fall into two classes. Everyone has Standard skills – things such as sneaking around or influencing others. Professional skills on the other hand, are those requiring specific training before they can be attempted – things such as tracking wild animals, piloting spacecraft orspacecraft or understanding ancient languages. Characters are given three pools of points to spend on acquiring skills; the first pool for the Culture they grew up in, the second for the Career they adopt after childhood, and the last to further round out their skill set. As a default, new characters assign 100 points to the Culture skill pool, 100 to the Career skill pool, and a further 150 Bonus points for rounding out. Each Culture and Career has a defined range of standard and professional skills to which those skill points may be assigned.
+Skills fall into two classes. Everyone has Standard skills – things such as sneaking around or influencing others. Professional skills, on the other hand, are those requiring specific training before they can be attempted – things such as tracking wild animals, piloting spacecraft or understanding ancient languages. Characters are given three pools of points to spend on acquiring skills; the first pool for the Culture they grew up in, the second for the Career they adopt after childhood, and the last to further round out their skill set. As a default, new characters assign 100 points to the Culture skill pool, 100 to the Career skill pool, and a further 150 Bonus points for rounding out. Each Culture and Career has a defined range of standard and professional skills to which those skill points may be assigned.
 
-_**Combat Style**_ is listed in the Cultural descriptions that follow. Combat Styles are more fully explained in the Combat section, andsection and have a Basic Percentage equal to STR+DEX.
+_**Combat Style**_ is listed in the Cultural descriptions that follow. Combat Styles are more fully explained in the Combat section, and have a Basic Percentage equal to STR+DEX.
 
 **Standard Skills**
 
 | Skill | Basic Percentage |
-| --- | --- |
+| :-- | :-: |
 | Athletics | STR+DEX |
 | Boating | STR+CON |
 | Brawn | STR+SIZ |
@@ -296,31 +296,31 @@ Culture determines the kind of society in which the character was raised, and so
 
 ## Barbarian
 
-Tribal in nature, barbarians tend to shun civilisation, viewing those who live in large towns and cities as weak and corrupt. Although their own settlements are also sedentary, they tend to be far smaller and closer to nature. Barbarian tribes occupy distinct territories, often half tamed wilderness, which they regard as their own for hunting, grazing, and farming purposes. Most are adept in the use of weaponry as they must overcome many dangers throughout their lives – facing creatures of the wilds, orwilds or mustering to defend their lands against rival tribes. Since they live in small communities the ties of kinship and clan are strong elements of their society.
+Tribal in nature, barbarians tend to shun civilisation, viewing those who live in large towns and cities as weak and corrupt. Although their own settlements are also sedentary, they tend to be far smaller and closer to nature. Barbarian tribes occupy distinct territories, often half tamed wilderness, which they regard as their own for hunting, grazing, and farming purposes. Most are adept in the use of weaponry as they must overcome many dangers throughout their lives – facing creatures of the wilds, or mustering to defend their lands against rival tribes. Since they live in small communities the ties of kinship and clan are strong elements of their society.
 
 #### Skills
 
-_**Standard Skills**_: Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating or Ride. In additionaddition, the player may also choose a cultural Combat Style.
+_**Standard Skills**_: Athletics, Brawn, Endurance, First Aid, Locale, Perception; and either Boating or Ride. In addition, the player may also choose a cultural Combat Style.
 
 _**Professional Skills**_: Craft (any), Healing, Lore (any), Musicianship, Navigation, Seamanship, Survival, Track.
 
 ## Civilised
 
-The Civilised culture is epitomised by a semblance of law and order, underpinned by complex social codescodes, and supported by a bureaucracy. Civilised people believe themselves superior to all other cultures because their achievements tend toward permanence: sprawling cities, imposing temples, celebratory monuments, and the recording of history and events in books, tomestomes, and scrolls. Of course, this is a thin veneer. The most Civilised of cities can be more lawless than any Barbarian frontier settlement; and the social codes may be cruder than the hospitality rituals of nomads. But the Civilised culture prides itself on its achievements, its infrastructure, its professional artisansartisans, and its ability to easily extend its reach to wherever it wishes to go.
+The Civilised culture is epitomised by a semblance of law and order, underpinned by complex social codes, and supported by a bureaucracy. Civilised people believe themselves superior to all other cultures because their achievements tend toward permanence: sprawling cities, imposing temples, celebratory monuments, and the recording of history and events in books, tomes, and scrolls. Of course, this is a thin veneer. The most Civilised of cities can be more lawless than any Barbarian frontier settlement; and the social codes may be cruder than the hospitality rituals of nomads. But the Civilised culture prides itself on its achievements, its infrastructure, its professional artisans, and its ability to easily extend its reach to wherever it wishes to go.
 
 #### Skills
 
-_**Standard Skills**_: Conceal, Deceit, Drive, Influence, Insight, Locale, Willpower. In additionaddition, the player may also choose a cultural Combat Style.
+_**Standard Skills**_: Conceal, Deceit, Drive, Influence, Insight, Locale, Willpower. In addition, the player may also choose a cultural Combat Style.
 
 _**Professional Skills**_: Art (any), Commerce, Craft (any), Courtesy, Language (any), Lore (any), Musicianship, Streetwise.
 
 ## Nomadic
 
-Nomadic people are constantly on the move, with no home and hearth to call their own. They may wander aimlessly about or might have several camps they move to and from throughout the year. They raise few crops and instead follow the migrations of animals or fish, perhaps even herding their own domesticated beasts. Nomads are adept at subsisting on what they can quickly and easily scavenge from their surroundings, letting nothing go to waste. The skills of the nomad culture should be tailored to their environment. Some journey vast distances on foot, others live in caravans or ride strange creatures, and some drift. across the oceans on great floating rafts.
+Nomadic people are constantly on the move, with no home and hearth to call their own. They may wander aimlessly about or might have several camps they move to and from throughout the year. They raise few crops and instead follow the migrations of animals or fish, perhaps even herding their own domesticated beasts. Nomads are adept at subsisting on what they can quickly and easily scavenge from their surroundings, letting nothing go to waste. The skills of the nomad culture should be tailored to their environment. Some journey vast distances on foot, others live in caravans or ride strange creatures, and some drift across the oceans on great floating rafts.
 
 #### Skills
 
-_**Standard Skills**_: Endurance, First Aid, Locale, Perception, Stealth; and two of the following: Athletics, Boating, Swim, Drive or Ride depending on the primary mode of travel. In additionaddition, the player may also choose a cultural Combat Style.
+_**Standard Skills**_: Endurance, First Aid, Locale, Perception, Stealth; and two of the following: Athletics, Boating, Swim, Drive or Ride depending on the primary mode of travel. In addition, the player may also choose a cultural Combat Style.
 
 _**Professional Skills**_: Craft (any), Culture (any), Language (any), Lore (any), Musicianship, Navigation, Survival, Track.
 
@@ -332,7 +332,7 @@ However, certain cultural beliefs, often based on superstitions, can be very wel
 
 #### Skills
 
-_**Standard Skills**_: Brawn, Endurance, Evade, Locale, Perception, Stealth; and one of either Athletics, Boating or Swim. In additionaddition, the player may also choose a cultural Combat Style.
+_**Standard Skills**_: Brawn, Endurance, Evade, Locale, Perception, Stealth; and one of either Athletics, Boating or Swim. In addition, the player may also choose a cultural Combat Style.
 
 _**Professional Skills**_: Craft (any), Healing, Lore (any), Musicianship, Navigation, Survival, Track.
 
@@ -340,43 +340,43 @@ _**Professional Skills**_: Craft (any), Healing, Lore (any), Musicianship, Navig
 
 Every character starts the game having been trained in a career. The occupation chosen may not necessarily be the one the character continues to follow as the character begins adventuring life, but it is the career embarked on as part of the transition to adulthood and it further defines skill development. Each career presents a range of Standard skills appropriate to it and permits the player to pick up to three of the listed Professional skills. Distribute 100 Career Skill points amongst the career's listed Standard skills and whichever Professional skills were selected, increasing each skill by 1% for every point spent on improving it. As with cultures a Games Master may apply a cap to how many skill points can be applied to any particular skill.
 
-Specific Professional skills, like Pilot, are unlikely to be found in a fantasy world. Skills are discussed more fully in the Skills chapter, starting on page XX.
+Specific Professional skills, like Pilot, are unlikely to be found in a fantasy world. Skills are discussed more fully in the Skills chapter.
 
 **Careers**
 
 | Career Name | Standard Skills | Professional Skills |
-| --- | --- | --- |
+| :-- | :-- | :-- |
 | Agent (Agitator, Assassin, Detective, Informer, Spy…) | Conceal, Deceit, Evade, Insight, Perception, Stealth; Combat Style (Specific Agent or Cultural Style) | Culture (any), Disguise, Language (any), Sleight, Streetwise, Survival, Track |
 | Beast Handler (Animal Breeder, Beast Tamer, Menagerie Keeper…) | Drive, Endurance, First Aid, Influence, Locale, Ride, Willpower | Craft (Animal Husbandry), Commerce, Healing (Specific Species), Lore (Specific Species), Survival, Teach (Specific Species), Track |
 | Bounty Hunter (Bail enforcement agent, Bounty killer, Scalp hunter, Skip tracer...) | Athletics, Endurance, Evade, Insight, Perception, Stealth; Combat Style (any) | Bureaucracy, Commerce, Culture (any), Linguistics, Streetwise, Survival (any), Track |
 | Courtesan (Concubine, Escort, Harem-girl, Houri, Paramour…) | Customs, Dance, Deceit, Influence, Insight, Perception, Sing | Art (any), Courtesy, Culture (any), Gambling, Language (any), Musicianship, Seduction |
-| Crafter Artificer, Artisan… | Brawn, Drive, Influence, Insight, Locale, Perception, Willpower | Art (any), Commerce, Craft (Primary), Craft (Secondary), Engineering, Mechanisms, Streetwise |
+| Crafter, Artificer, Artisan… | Brawn, Drive, Influence, Insight, Locale, Perception, Willpower | Art (any), Commerce, Craft (Primary), Craft (Secondary), Engineering, Mechanisms, Streetwise |
 | Detective Gumshoe, Policeman, Private Eye, Private Investigator, Sleuth... | Customs, Evade, Influence, Insight, Perception, Stealth; Combat Style (Unarmed or Side Arms style) | Bureaucracy, Culture (any), Disguise, Linguistics, Lore (any), Research, Sleight, Streetwise |
-| Entertainer Acrobat, Bard, Dancer, Player, Poet… | Athletics, Brawn, Dance, Deceit, Influence, Insight, Sing | Acrobatics, Acting, Oratory, Musicianship, Seduction, Sleight, Streetwise |
-| Farmer Estate Owner, Gardener, Ploughman… | Athletics, Brawn, Drive, Endurance, Locale, Perception, Ride | Commerce, Craft (any), Lore (Agriculture), Lore (Animal Husbandry), Navigation, Survival, Track |
-| Fisher Beach Comber, Net Tender, Pearl Diver, Whaler… | Athletics, Boating, Endurance, Locale, Perception, Stealth, Swim | Commerce, Craft (Any), Lore (Primary Catch), Lore (Secondary Catch), Navigation, Seamanship, Survival |
-| Gambler Bookie, Cardsharp, Hustler... | Athletics, Brawn, Endurance, Locale, Perception, Willpower; and either Drive or Ride | Acting, Bureaucracy, Commerce, Courtesy, Gambling, Research, Sleight, Streetwise |
-| Herder Breeder, Herdsman, Sacred Goose Tender, Wrangler… | Endurance, First Aid, Insight, Locale, Perception, Ride; Combat Style (Specific Herding or Cultural Style) | Commerce, Craft (Animal Husbandry), Healing (Specific Species), Navigation, Musicianship, Survival, Track |
-| Hunter Forester, Poacher, Scavenger, Stalker, Trapper… | Athletics, Endurance, Locale, Perception, Ride, Stealth; Combat Style (Specific Hunting or Cultural Style) | Commerce, Craft (Hunting Related), Lore (Regional or Specific Species), Mechanisms, Navigation, Survival, Track |
-| Journalist Commentator, Hack, Newshound, Pressman... | Customs, Deceit, Influence, Insight, Locale, Native Tongue, Perception | Bureaucracy, Culture (any), Language (any), Lore (any), Oratory, Politics, Streetwise |
-| Magician Mage, Sorcerer, Witch, Wizard | Customs, Deceit, Influence, insight, Locale, Perception, Willpower | Culture, Magic, Literacy, Lore x2, Oratory, Sleight |
-| Mechanic Engineer, Grease monkey... | Brawn, Culture, Drive, Endurance, Influence, Locale, Willpower | Commerce, Craft (primary), Craft (secondary), Electronics, Gambling, Mechanisms, Streetwise |
-| Merchant Broker, Hawker, Money Lender, Smuggler, Trader… | Boating, Drive, Deceit, Insight, Influence, Locale, Ride | Commerce, Courtesy, Culture (any), Language (any), Navigation, Seamanship, Streetwise |
-| Miner Prospector, Quarryman, Sapper, Well Digger… | Athletics, Brawn, Endurance, Locale, Perception, Sing, Willpower | Commerce, Craft (Mining), Engineering, Lore (Minerals), Mechanisms, Navigation (Underground), Survival |
-| Official Minister, Overseer, Steward, Tax Collector… | Customs, Deceit, Influence, Insight, Locale, Perception, Willpower | Bureaucracy, Commerce, Courtesy, Language (any), Literacy, Lore (any), Oratory |
-| Physician Doctor, Healer, Medicine Man, Torturer, Vivisectionist… | Dance, First Aid, Influence, Insight, Locale, Sing, Willpower | Commerce, Craft (Specific Physiological Speciality), Healing, Language (any), Literacy (any), Lore (any), Streetwise |
-| Pilot Aeronaut, Astronaut, Barnstormer, Flyboy, Test Pilot... | Brawn, Drive, Endurance, Evade, Locale, Perception, Willpower | Customs (any), Electronics, Mechanisms, Navigation, Pilot, Sensors, Streetwise |
-| Politician Civil Servant, Mandarin, Minister, Overseer, Steward… | Customs, Deceit, Influence, Insight, Locale, Native Tongue, Perception | Bureaucracy, Courtesy, Culture (any), Language (any), Lore (any), Oratory, Politics |
-| Priest Arbiter, Cultist, Druid, Mendicant, Prophet… | Customs, Dance, Deceit, Influence, Insight, Locale, Willpower | Bureaucracy, Courtesy, Customs, Literacy (any), Lore (any), Oratory, Politics |
-| Sailor Captain, Galley Slave, Marine, Pirate, Raft man… | Athletics, Boating, Brawn, Endurance, Locale, Swim; Combat Style (Specific Sailor or Cultural Style) | Craft (Specific Shipboard Speciality), Culture (any), Language (any), Lore (any), Navigation, Seamanship, Survival |
-| Scholar Annalist, Librarian, Philosopher, Skald, Scribe… | Customs, Influence, Insight, Locale, Native Tongue, Perception, Willpower | Culture (any), Language (any), Literacy (any), Lore (Primary), Lore (Secondary), Oratory, Teach |
-| Scientist Archivist, Librarian, Philosopher… | Customs, Influence, Insight, Locale, Native Tongue, Perception, Willpower | Culture (any), Engineering, Language (any), Oratory, Research, Science (any), Teach |
-| Scout Bounty Hunter, Explorer, Pioneer, Ranger, Wayfarer… | Athletics, Endurance, First Aid, Perception, Stealth, Swim; Combat Style (Specific Hunting or Cultural Style) | Culture (any), Healing, Language (any), Lore (any), Navigation, Survival, Track |
-| Servant Aide, Butler, Chauffeur, House Maid, Governess, Major Domo, Manservant, Personal Assistant, Secretary... | Customs, Deceit, Drive, Influence, Insight, Locale, Perception | Bureaucracy, Courtesy, Craft (service related), Culture (any), Language (any), Politics, Streetwise |
-| Smuggler Black Marketer, Bootlegger, Gun Runner... | Conceal, Customs, Deceit, Drive, Influence, Insight, Locale | Bureaucracy, Commerce, Customs (any), Language (any), Navigation, Streetwise; and either Astrogation or Seamanship |
-| Technician Electrician, Laboratory Assistant... | Brawn, Drive, Endurance, Influence, Locale, Perception, Willpower | Comms, Craft (any), Electronics, Gambling, Mechanisms, Science (any), Sensors |
-| Thief Burglar, Conman, Fence, Mugger, Tomb Robber… | Athletics, Deceit, Evade, Insight, Perception, Stealth; Combat Style (Specific Thief or Cultural Style) | Acting, Commerce, Disguise, Lockpicking, Mechanisms, Sleight, Streetwise |
-| Warrior Bodyguard, Mercenary, Pit Fighter, Soldier… | Athletics, Brawn, Endurance, Evade, Unarmed; Combat Style (Military Style), Combat Style (Cultural Style) | Craft (any), Engineering, Gambling, Lore (Military History), Lore (Strategy and Tactics), Oratory, Survival |
+| Entertainer, Acrobat, Bard, Dancer, Player, Poet… | Athletics, Brawn, Dance, Deceit, Influence, Insight, Sing | Acrobatics, Acting, Oratory, Musicianship, Seduction, Sleight, Streetwise |
+| Farmer, Estate Owner, Gardener, Ploughman… | Athletics, Brawn, Drive, Endurance, Locale, Perception, Ride | Commerce, Craft (any), Lore (Agriculture), Lore (Animal Husbandry), Navigation, Survival, Track |
+| Fisher, Beach Comber, Net Tender, Pearl Diver, Whaler… | Athletics, Boating, Endurance, Locale, Perception, Stealth, Swim | Commerce, Craft (Any), Lore (Primary Catch), Lore (Secondary Catch), Navigation, Seamanship, Survival |
+| Gambler, Bookie, Cardsharp, Hustler... | Athletics, Brawn, Endurance, Locale, Perception, Willpower; and either Drive or Ride | Acting, Bureaucracy, Commerce, Courtesy, Gambling, Research, Sleight, Streetwise |
+| Herder, Breeder, Herdsman, Sacred Goose Tender, Wrangler… | Endurance, First Aid, Insight, Locale, Perception, Ride; Combat Style (Specific Herding or Cultural Style) | Commerce, Craft (Animal Husbandry), Healing (Specific Species), Navigation, Musicianship, Survival, Track |
+| Hunter, Forester, Poacher, Scavenger, Stalker, Trapper… | Athletics, Endurance, Locale, Perception, Ride, Stealth; Combat Style (Specific Hunting or Cultural Style) | Commerce, Craft (Hunting Related), Lore (Regional or Specific Species), Mechanisms, Navigation, Survival, Track |
+| Journalist, Commentator, Hack, Newshound, Pressman... | Customs, Deceit, Influence, Insight, Locale, Native Tongue, Perception | Bureaucracy, Culture (any), Language (any), Lore (any), Oratory, Politics, Streetwise |
+| Magician, Mage, Sorcerer, Witch, Wizard | Customs, Deceit, Influence, insight, Locale, Perception, Willpower | Culture, Magic, Literacy, Lore x2, Oratory, Sleight |
+| Mechanic, Engineer, Grease monkey... | Brawn, Culture, Drive, Endurance, Influence, Locale, Willpower | Commerce, Craft (primary), Craft (secondary), Electronics, Gambling, Mechanisms, Streetwise |
+| Merchant, Broker, Hawker, Money Lender, Smuggler, Trader… | Boating, Drive, Deceit, Insight, Influence, Locale, Ride | Commerce, Courtesy, Culture (any), Language (any), Navigation, Seamanship, Streetwise |
+| Miner, Prospector, Quarryman, Sapper, Well Digger… | Athletics, Brawn, Endurance, Locale, Perception, Sing, Willpower | Commerce, Craft (Mining), Engineering, Lore (Minerals), Mechanisms, Navigation (Underground), Survival |
+| Official, Minister, Overseer, Steward, Tax Collector… | Customs, Deceit, Influence, Insight, Locale, Perception, Willpower | Bureaucracy, Commerce, Courtesy, Language (any), Literacy, Lore (any), Oratory |
+| Physician, Doctor, Healer, Medicine Man, Torturer, Vivisectionist… | Dance, First Aid, Influence, Insight, Locale, Sing, Willpower | Commerce, Craft (Specific Physiological Speciality), Healing, Language (any), Literacy (any), Lore (any), Streetwise |
+| Pilot, Aeronaut, Astronaut, Barnstormer, Flyboy, Test Pilot... | Brawn, Drive, Endurance, Evade, Locale, Perception, Willpower | Customs (any), Electronics, Mechanisms, Navigation, Pilot, Sensors, Streetwise |
+| Politician, Civil Servant, Mandarin, Minister, Overseer, Steward… | Customs, Deceit, Influence, Insight, Locale, Native Tongue, Perception | Bureaucracy, Courtesy, Culture (any), Language (any), Lore (any), Oratory, Politics |
+| Priest, Arbiter, Cultist, Druid, Mendicant, Prophet… | Customs, Dance, Deceit, Influence, Insight, Locale, Willpower | Bureaucracy, Courtesy, Customs, Literacy (any), Lore (any), Oratory, Politics |
+| Sailor, Captain, Galley Slave, Marine, Pirate, Raft man… | Athletics, Boating, Brawn, Endurance, Locale, Swim; Combat Style (Specific Sailor or Cultural Style) | Craft (Specific Shipboard Speciality), Culture (any), Language (any), Lore (any), Navigation, Seamanship, Survival |
+| Scholar, Annalist, Librarian, Philosopher, Skald, Scribe… | Customs, Influence, Insight, Locale, Native Tongue, Perception, Willpower | Culture (any), Language (any), Literacy (any), Lore (Primary), Lore (Secondary), Oratory, Teach |
+| Scientist, Archivist, Librarian, Philosopher… | Customs, Influence, Insight, Locale, Native Tongue, Perception, Willpower | Culture (any), Engineering, Language (any), Oratory, Research, Science (any), Teach |
+| Scout, Bounty Hunter, Explorer, Pioneer, Ranger, Wayfarer… | Athletics, Endurance, First Aid, Perception, Stealth, Swim; Combat Style (Specific Hunting or Cultural Style) | Culture (any), Healing, Language (any), Lore (any), Navigation, Survival, Track |
+| Servant, Aide, Butler, Chauffeur, House Maid, Governess, Major Domo, Manservant, Personal Assistant, Secretary... | Customs, Deceit, Drive, Influence, Insight, Locale, Perception | Bureaucracy, Courtesy, Craft (service related), Culture (any), Language (any), Politics, Streetwise |
+| Smuggler, Black Marketer, Bootlegger, Gun Runner... | Conceal, Customs, Deceit, Drive, Influence, Insight, Locale | Bureaucracy, Commerce, Customs (any), Language (any), Navigation, Streetwise; and either Astrogation or Seamanship |
+| Technician, Electrician, Laboratory Assistant... | Brawn, Drive, Endurance, Influence, Locale, Perception, Willpower | Comms, Craft (any), Electronics, Gambling, Mechanisms, Science (any), Sensors |
+| Thief, Burglar, Conman, Fence, Mugger, Tomb Robber… | Athletics, Deceit, Evade, Insight, Perception, Stealth; Combat Style (Specific Thief or Cultural Style) | Acting, Commerce, Disguise, Lockpicking, Mechanisms, Sleight, Streetwise |
+| Warrior, Bodyguard, Mercenary, Pit Fighter, Soldier… | Athletics, Brawn, Endurance, Evade, Unarmed; Combat Style (Military Style), Combat Style (Cultural Style) | Craft (any), Engineering, Gambling, Lore (Military History), Lore (Strategy and Tactics), Oratory, Survival |
 
 ## Step 7: Bonus Skill Points
 
@@ -653,7 +653,7 @@ Brawn is the efficient application of technique when applying raw physical force
 
 ### Combat Style (STR+DEX)
 
-Each Combat Style is the skill to use the weapons expected of a career or culture in the setting. Most fighting traditions encompass training in multiple weapons, along with the techniques required to use them all effectively, whether singly or in combination. In additionaddition, they often assume a situational element, such as fighting as close order infantry or whilst mounted. Combat Styles can be very diverse, ranging from, for example, Gladiatorial Combat all the way to Space Marine Mobile Infantry.
+Each Combat Style is the skill to use the weapons expected of a career or culture in the setting. Most fighting traditions encompass training in multiple weapons, along with the techniques required to use them all effectively, whether singly or in combination. In addition, they often assume a situational element, such as fighting as close order infantry or whilst mounted. Combat Styles can be very diverse, ranging from, for example, Gladiatorial Combat all the way to Space Marine Mobile Infantry.
 
 ### Conceal (DEX+POW)
 
